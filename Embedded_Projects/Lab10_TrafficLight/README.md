@@ -5,6 +5,7 @@ There are three Switches reflecting three sensor( if_has_Person(), if_NSdir_has_
 The traffic lights will change mode when States of Sensors changes.    
 
 ## FSM- 有限状态机
+```C
 STyp FSM[9]=  
 {     
 //{OUT,OutPF,Time,{    None,	   PE0,     PE1,   PE1&0,     PE2,   PE2&0,   PE2&1, PE2&1&0}}
@@ -18,3 +19,4 @@ STyp FSM[9]=
  {0x24, 0x02, 60, {notWalk2,walkOff2,walkOff2,walkOff2,walkOff2,walkOff2,walkOff2,walkOff2}},   //notWalk2  
  {0x24, 0x00, 60, {walkOff2,     goW,     goS,     goW,    walk,     goW,     goS,     goW}}    //walkOff2  
 };  
+```
