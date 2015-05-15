@@ -8,7 +8,7 @@ The traffic lights will change mode when States of Sensors changes.
 ```C
 STyp FSM[9]=  
 {     
-//{OUT,OutPF,Time,{    None,	   PE0,     PE1,   PE1&0,     PE2,   PE2&0,   PE2&1, PE2&1&0}}
+//{OUT,OutPF,Time,{    None,	 PE0,     PE1,   PE1&0,     PE2,   PE2&0,   PE2&1, PE2&1&0}}
  {0x0C, 0x02, 100,{     goW,     goW,   waitW,   waitW,   waitW,   waitW,   waitW,   waitW}},   //goW  
  {0x14, 0x02, 60, {   waitW,     goW,     goS,     goS,    walk,    walk,     goS,     goS}},   //waitW  
  {0x21, 0x02, 100,{     goS,   waitS,     goS,   waitS,   waitS,   waitS,   waitS,   waitS}},   //goS  
