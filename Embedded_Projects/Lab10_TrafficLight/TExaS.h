@@ -23,13 +23,15 @@
  */
 
 // IMPORTANT: These enumerated types are specific to Lab 10.
-enum InputPorts{
+enum InputPorts
+{
   SW_PIN_PA432 = 0,
   SW_PIN_PB210 = 1,
   SW_PIN_PE210 = 4
 };
 
-enum OutputPorts{
+enum OutputPorts
+{
   LED_PIN_PA765432 = 0,
   LED_PIN_PB543210 = 1,
   LED_PIN_PE543210 = 4
