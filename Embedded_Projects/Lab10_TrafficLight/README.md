@@ -20,3 +20,6 @@ STyp FSM[9]=
  {0x24, 0x00, 60, {walkOff2,     goW,     goS,     goW,    walk,     goW,     goS,     goW}}    //walkOff2  
 };  
 ```
+
+### Result_Video on YOUKU
+http://v.youku.com/v_show/id_XOTQ4MzUyMDky.html?from=y1.7-1.2
