@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/【资料】重大教学资料/计算机网络/Pro/计算机网络Project4_20125209陈点_20125216徐天源/20141223-CNP04-PC1/CD_HR1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
