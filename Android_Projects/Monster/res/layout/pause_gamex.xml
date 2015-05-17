@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="28dp"
+        android:src="@drawable/obama" />
+
+    <Button 
+        android:id="@+id/resumeb"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/resume_text"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/exit_buttonx"/>
+    <Button 
+        android:id="@+id/chongxinb"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/resumeb"
+        android:text="@string/chongxin_text"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:background="@drawable/exit_buttonx"/>
+    <Button 
+        android:id="@+id/backmainb"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/chongxinb"
+        android:text="@string/backmain_text"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:background="@drawable/exit_buttonx"/>
+
+</RelativeLayout>

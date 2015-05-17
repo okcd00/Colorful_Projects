@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attack_on_Lucian</string>
+    <string name="action_settings">Settings</string>
+    <string name="plane_monster">进击的卢锡安</string>
+    <string name="title_activity_enter_game">EnterGame</string>
+    <string name="go_combat">Go战斗吧</string>
+    <string name="game_describe"></string>
+    <string name="exit_text_string">提示:\n\t怪兽正在疯狂的毁灭你的家园。\n\t亲，你真的要放弃抵抗嘛？</string>
+    <string name="cancel_text">继续战斗</string>
+    <string name="quit_text">放弃治疗</string>
+    <string name="on_off_text">音乐</string>
+    <string name="resume_text">继续</string>
+    <string name="chongxin_text">重新开始</string>
+    <string name="backmain_text">返回菜单</string>
+    <string name="share_text">分享给小伙伴们试试吧</string>
+    <string name="plane_blood">HP:</string>
+    <string name="kill_num">kill:</string>
+    <string name="set_text">设置\n\n模式选择</string>
+    <string name="normal_text">正常模式</string>
+    <string name="random_text">随机模式</string>
+</resources>

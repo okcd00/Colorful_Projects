@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bullet.png</file>
+        <file>image/Default.png</file>
+        <file>image/enemy.png</file>
+        <file>image/icon_gold.png</file>
+        <file>image/icon_HP.png</file>
+        <file>image/tower.png</file>
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+        <file>image/map.jpg</file>
+        <file>image/open_spot.png</file>
+        <file>image/pic/mst0.png</file>
+        <file>image/pic/mst1.png</file>
+        <file>image/pic/mst2.png</file>
+        <file>image/pic/mst3.png</file>
+        <file>image/pic/mst4.png</file>
+        <file>image/pic/mst5.png</file>
+        <file>image/prefix/Fail.png</file>
+        <file>image/prefix/Win.png</file>
+        <file>image/prefix/start clip.png</file>
+        <file>music/enemy_destroy.wav</file>
+        <file>music/laser_shoot.wav</file>
+        <file>music/life_lose.wav</file>
+        <file>music/tower_place.wav</file>
+        <file>music/Sengoku Rance.mp3</file>
+        <file>Add_aboutus/bgd.gif</file>
+        <file>Add_aboutus/dian.gif</file>
+        <file>Add_aboutus/gali2.gif</file>
+        <file>Add_aboutus/baizi.jpg</file>
+    </qresource>
+</RCC>
