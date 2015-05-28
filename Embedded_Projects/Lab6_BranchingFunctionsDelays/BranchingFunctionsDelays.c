@@ -73,7 +73,7 @@ int main(void)
 		In = GPIO_PORTF_DATA_R&0x10;   		// 		read PF4 into Sw1
 		if (In == 0)  GPIO_PORTF_DATA_R ^= 0x04;
 		else          GPIO_PORTF_DATA_R |= 0x04; 
-  }
+	}
 }
 
 void Delay100ms(unsigned long time)
