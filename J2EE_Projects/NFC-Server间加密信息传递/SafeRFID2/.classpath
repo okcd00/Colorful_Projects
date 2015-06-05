@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kari_Chen/Desktop/信息安全大赛/ACR122U-A9/rfid/src/lib/ACR122Sample.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Kari_Chen/workspace/SafeRFID2/mysql-connector-java-5.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
