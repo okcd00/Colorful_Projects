@@ -26,7 +26,7 @@ public class AES {
 	public AES(){
 		ALGO = "AES";
 		String key = "123456";
-		keyValue = changeKey56(key);
+		keyValue = dealInputKey(key);
 	}
 	/**
 	 * 用来进行加密的操作
@@ -77,7 +77,7 @@ public class AES {
 	 * @param keyValue
 	 * @return
 	 */
-	private byte[] changeKey56(String keyValue){
+	private byte[] dealInputKey(String keyValue){
 		String keyHash = MD5.GetMD5(keyValue);
 		return keyHash.substring(0, 16).getBytes();
 	}
@@ -96,7 +96,7 @@ public class AES {
 
 	public void setKeyValue(String keyValue) {
 		
-		this.keyValue = changeKey56(keyValue);
+		this.keyValue = dealInputKey(keyValue);
 	}
 	
 	

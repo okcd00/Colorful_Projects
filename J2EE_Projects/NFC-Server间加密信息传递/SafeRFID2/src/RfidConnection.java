@@ -1,11 +1,9 @@
-﻿import java.io.*;
+﻿
 import java.util.ArrayList;
-import java.awt.*;
-import java.awt.event.*;
+
 
 import javax.swing.*;
-import javax.swing.filechooser.*;
-import javax.swing.filechooser.FileFilter;
+
 
 
 
@@ -157,7 +155,7 @@ public class RfidConnection {
 		SendBuff[2] = (byte)0x00;
 		SendBuff[3] = (byte)blockNum;
 		SendBuff[4] = (byte)0x04;
-		int amt;
+		//int amt;
 		String tmpStr2="", tmpHex2="";
 		SendLen = 5;
 		RecvLen[0] = 16 + 2;
