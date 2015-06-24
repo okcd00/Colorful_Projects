@@ -172,44 +172,24 @@ void SysTick_Handler(void){
   } else if((PWMStage%3) == 0){ // time for both pins to fall
     GPIO_PORTA_DATA_R &= ~0x60; // make PA6-5 low
     PWMStage = 0;               // restart the count to prevent error upon rollover
-    /*
-    if((ForwardDistance + RearDistance) > 40){        // too far away; move toward wall
-      if((LeftL + STEP/2) <= 72000){
-        LeftL = LeftL + STEP/2; // turn soft left
-      }
-    } else if((ForwardDistance + RearDistance) < 20){ // too close; move away from wall
-      if((LeftL - STEP/2) >= 8000){
-        LeftL = LeftL - STEP/2; // turn soft right
-      }
-    } else if(ForwardDistance > RearDistance){        // run parallel to left wall
-      if((LeftL + STEP) <= 72000){
-        LeftL = LeftL + STEP;   // turn left
-      }
-    } else{
-      if((LeftL - STEP) >= 8000){
-        LeftL = LeftL - STEP;   // turn right
-      }
-      LeftH = 80000 - LeftL;
-    }*/
-    // integral control
     if(Error == 0){
 			LeftH = (LEFTMAXPCT + LEFTMINPCT)*400;
       
     }else if(Error > 0){
-      // Error is positive, so the left ADC value is greater
-      // than the right ADC value.  This means that the right
-      // distance is greater, so the robot must steer right.
-      // Increasing power to the left wheel steers right.
+		// Error is positive, so the left ADC value is greater
+		// than the right ADC value.  This means that the right
+		// distance is greater, so the robot must steer right.
+		// Increasing power to the left wheel steers right.
       if((LeftH + Error) <= (LEFTMAXPCT*800)){
         LeftH = LeftH + Error;  // turn right
       } else{
         LeftH = (LEFTMAXPCT*800);// left wheel full speed
       }
     } else if(Error < 0){
-			// Error is negative, so the right ADC value is greater
-      // than the left ADC value.  This means that the left
-      // distance is greater, so the robot must steer left.
-      // Decreasing power to the left wheel steers left.
+		// Error is negative, so the right ADC value is greater
+		// than the left ADC value.  This means that the left
+		// distance is greater, so the robot must steer left.
+		// Decreasing power to the left wheel steers left.
       if((LeftH + Error) >= (LEFTMINPCT*800)){
         LeftH = LeftH + Error;  // turn left
       } else{
@@ -255,6 +235,7 @@ unsigned long result;
         else      result=u3;   // u2>u1,u2>u3,u3>u1 u2>u3>u1
   return(result);
 }
+
 // This function samples AIN2 (PE1), AIN9 (PE4), AIN8 (PE5) and
 // returns the results in the corresponding variables.  Some
 // kind of filtering is required because the IR distance sensors
@@ -278,6 +259,7 @@ void ReadADCMedianFilter(unsigned long *ain2, unsigned long *ain9, unsigned long
   ain2oldest = ain2middle; ain9oldest = ain9middle; ain8oldest = ain8middle;
   ain2middle = ain2newest; ain9middle = ain9newest; ain8middle = ain8newest;
 }
+
 // This function returns the number of digits in the input 'n'.
 // For example, if n=1234, the output is 4.
 // For example, if n=88, the output is 2.
@@ -339,85 +321,5 @@ int main(void){
       // print to the UART occasionally
       // "L% - R% - Ahead - Frwd R - Frwd L - Error"  <-line gets printed once
       // "XX%  XX%  XXXX    XXXX     XXXX     -XXXXX" <-writes over previous
-      UART_OutChar('\r');
-      UART_OutUDec(LeftH/800);
-      UART_OutChar('%');
-      for(i=1; i<=(4-digits(LeftH/800)); i=i+1){
-        UART_OutChar(' ');           // line up the output
-      }
-      UART_OutUDec(RightH/800);
-      UART_OutChar('%');
-      for(i=1; i<=(4-digits(RightH/800)); i=i+1){
-        UART_OutChar(' ');           // line up the output
-      }
-      UART_OutUDec(ahead);
-      for(i=1; i<=(8-digits(ahead)); i=i+1){
-        UART_OutChar(' ');           // line up the output
-      }
-      UART_OutUDec(frwdright);
-      for(i=1; i<=(9-digits(frwdright)); i=i+1){
-        UART_OutChar(' ');           // line up the output
-      }
-      UART_OutUDec(frwdleft);
-      for(i=1; i<=(9-digits(frwdleft)); i=i+1){
-        UART_OutChar(' ');           // line up the output
-      }
-      if(Error < 0){
-        UART_OutChar('-');
-        UART_OutUDec(-1*Error);
-      } else{
-        UART_OutUDec(Error);
-      }
-      UART_OutString("       ");     // cover up any previous output
-      // flash the LED in an arbitrary, ideally eye-catching pattern
-      if(pattern&0x1){
-        GPIO_PORTF_DATA_R ^= 0x04;   // toggle blue LED
-      }
-      pattern = pattern/2;
-      if(pattern == 0){
-        pattern = LEDPATTERN;
-      }
-    }
-    timeOutput = timeOutput + 1;*/
-    /*while( (frwdleft > CRASH) || (frwdright > CRASH) ){
-      // impending collision
-      NVIC_ST_CTRL_R &= ~0x01;       // disable SysTick timer
-      GPIO_PORTA_DATA_R &= ~0x60;    // make PA6-5 low
-      GPIO_PORTF_DATA_R &= ~0x04;    // blue LED off
-			step=step+1;
-			if((step/10%2)== 0){
-				GPIO_PORTF_DATA_R |= 0x02;     // red LED on
-				for(i=0; i<10000000; i=i+1);
-				GPIO_PORTF_DATA_R |= 0x08;
-				GPIO_PORTA_DATA_R |= 0x40;
-				for(i=0; i<2000000; i=i+1);
-				GPIO_PORTF_DATA_R &= ~0x0E;    // all LEDs off
-				GPIO_PORTA_DATA_R &= ~0x60;    // make PA6-5 low
-				ReadADCMedianFilter(&ahead, &frwdright, &frwdleft);
-				for(i=0; i<10000000; i=i+1);
-				
-			}
-			if((step/10%2)==1){
-				GPIO_PORTF_DATA_R |= 0x02;     // red LED on
-				for(i=0; i<10000000; i=i+1);
-				GPIO_PORTF_DATA_R |= 0x08;
-				GPIO_PORTA_DATA_R |= 0x20;
-				for(i=0; i<2000000; i=i+1);
-				GPIO_PORTF_DATA_R &= ~0x0E;    // all LEDs off
-				GPIO_PORTA_DATA_R &= ~0x60;    // make PA6-5 low
-				ReadADCMedianFilter(&ahead, &frwdright, &frwdleft);
-				for(i=0; i<10000000; i=i+1);
-			}
-      if((frwdleft < CRASH) || (frwdright < CRASH)){
-        LeftH = (LEFTMAXPCT + LEFTMINPCT)*400;
-        LeftL = 80000 - LeftH;       // value modified my controller
-        RightH = RIGHTCONSTPCT*800;  // constant
-        RightL = 80000 - RightH;
-        PWMStage = 1;                // start over at beginning stage of PWM
-        NVIC_ST_CTRL_R |= 0x01;      // enable SysTick timer
-        timeOutput = 0;
-        pattern = LEDPATTERN;
-      }
-    }*/
   }
 }
