@@ -42,7 +42,6 @@ public class MainActivity extends Activity {
  				butt3.setEnabled(false);
  			}			
      	});
-    
     }
     
     private class MyTask extends AsyncTask<String,Integer,String>{

@@ -70,7 +70,6 @@ public class ReadDemo extends HttpServlet {
     public String changeToDist(String str)
     {
     	double x=(double)Integer.parseInt(str);
-    	System.out.println("[Log] V_sensor="+x);
 		double val = 1944.0 * Math.exp(-0.02985*x) + 51.71 * Math.exp(-0.002019*x);
 		String ret="";
 		if(val>80.0)ret = " >80.00 cm";
@@ -79,7 +78,7 @@ public class ReadDemo extends HttpServlet {
 						ret = val + "";
 						ret = ret.substring(0,6) + "cm";
 					}
-		
+		System.out.println("[Log] Info_sensor="+ret);
 		return ret;
     }
     
