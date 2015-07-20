@@ -252,3 +252,4 @@ if __name__ == "__main__":
 			f.write(s)
 		f.write('\n')
 	f.close()
+	r.close()
