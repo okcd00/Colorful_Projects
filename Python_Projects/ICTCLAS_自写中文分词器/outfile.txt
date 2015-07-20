@@ -1,0 +1,10 @@
+ÖÐ	¹ú	¿ÆÑ§Ôº	¼ÆËã	¼¼Êõ	ÑÐ	¾¿	ËùÔÚ	¶à	Äê	ÑÐ	¾¿	»ù´¡	ÉÏ	
+ºÄÊ±	Ò»	Äê	ÑÐÖÆ	³ö	ÁË	»ùÓÚ	¶à	²ã	Òþ	Âë	Ä£ÐÍ	µÄ	ººÓï	´Ê·¨	·ÖÎö	ÏµÍ³	
+ICTCLAS	(	Institute	of	Computing	Technology	,	Chinese	Lexical	Analysis	System	)	
+¸Ã	ÏµÍ³	µÄ	¹¦ÄÜ	ÓÐ	£º	ÖÐÎÄ	·Ö´Ê	£»	´ÊÐÔ	±ê×¢	£»	Î´	µÇÂ¼	´Ê	Ê¶±ð	¡£	
+·Ö´Ê	ÕýÈ·	ÂÊ	¸ß	´ï	97.58%	(	×î½ü	µÄ	973	×¨¼Ò×é	ÆÀ²â	½á¹û	)	£¬	
+»ùÓÚ	½ÇÉ«	±ê×¢	µÄ	Î´	µÇÂ¼	´Ê	Ê¶±ð	ÄÜ	È¡µÃ	¸ßÓÚ	90%	ÕÙ»Ø	ÂÊ	£¬	
+ÆäÖÐ	ÖÐ	¹ú	ÈËÃû	µÄ	Ê¶±ð	ÕÙ»Ø	ÂÊ	½Ó½ü	98%	£¬	
+·Ö´Ê	ºÍ	´ÊÐÔ	±ê×¢	´¦Àí	ËÙ¶È	Îª	31.5KB/s	¡£	
+ICTCLAS	ºÍ	¼ÆËã	Ëù	ÆäËû	14	Ïî	Ãâ·Ñ	·¢²¼	µÄ	³É¹û	±»	ÖÐÍâ	Ã½Ìå	¹ã·º	µØ	±¨µÀ	
+¹úÄÚ	ºÜ¶à	Ãâ·Ñ	µÄ	ÖÐÎÄ	·Ö´Ê	Ä£	¿é	¶	¼»ò¶à»òÉ	Ùµ	Ä²	Î¿	¼¹	ICTCLAS	µÄ	´úÂë	¡£	
