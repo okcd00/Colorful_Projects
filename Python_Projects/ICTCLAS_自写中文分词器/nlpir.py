@@ -247,8 +247,8 @@ if __name__ == "__main__":
 	for eachline in r:
 		p = eachline
 		for t in Seg(p):
-			#s = '%s\t%s\t%s\n' % (t[0],t[1],translatePOS(t[1]))
-			s = '%s\t' % (t[0])
+			s = '%s\t%s\t%s\n' % (t[0],t[1],translatePOS(t[1]))
+			#s = '%s\t' % (t[0])
 			f.write(s)
 		f.write('\n')
 	f.close()

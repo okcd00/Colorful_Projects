@@ -1,10 +1,132 @@
-��	��	��ѧԺ	����	����	��	��	����	��	��	��	��	����	��	
-��ʱ	һ	��	����	��	��	����	��	��	��	��	ģ��	��	����	�ʷ�	����	ϵͳ	
-ICTCLAS	(	Institute	of	Computing	Technology	,	Chinese	Lexical	Analysis	System	)	
-��	ϵͳ	��	����	��	��	����	�ִ�	��	����	��ע	��	δ	��¼	��	ʶ��	��	
-�ִ�	��ȷ	��	��	��	97.58%	(	���	��	973	ר����	����	���	)	��	
-����	��ɫ	��ע	��	δ	��¼	��	ʶ��	��	ȡ��	����	90%	�ٻ�	��	��	
-����	��	��	����	��	ʶ��	�ٻ�	��	�ӽ�	98%	��	
-�ִ�	��	����	��ע	����	�ٶ�	Ϊ	31.5KB/s	��	
-ICTCLAS	��	����	��	����	14	��	���	����	��	�ɹ�	��	����	ý��	�㷺	��	����	
-����	�ܶ�	���	��	����	�ִ�	ģ	��	�	������	ٵ	Ĳ	ο	��	ICTCLAS	��	����	��	
+中国科学院	nt	机构团体名
+计算	v	动词
+技术	n	名词
+研究	vn	名动词
+所	usuo	所
+在	v	动词
+多年	mq	数量词
+研究	vn	名动词
+基础	n	名词
+上	f	方位词
+
+耗时	vi	不及物动词（内动词）
+一	m	数词
+年	qt	时量词
+研制	v	动词
+出	vf	趋向动词
+了	ule	了 喽
+基于	p	介词
+多	m	数词
+层	qv	动量词
+隐	v	动词
+码	q	量词
+模型	n	名词
+的	ude1	的 底
+汉语	nz	其它专名
+词法	n	名词
+分析	vn	名动词
+系统	n	名词
+
+ICTCLAS	x	字符串
+(	wkz	左括号
+Institute	x	字符串
+of	x	字符串
+Computing	x	字符串
+Technology	x	字符串
+,	wd	逗号
+Chinese	x	字符串
+Lexical	x	字符串
+Analysis	x	字符串
+System	x	字符串
+)	wky	右括号
+
+该	rz	指示代词
+系统	n	名词
+的	ude1	的 底
+功能	n	名词
+有	vyou	动词“有”
+：	wp	破折号
+中文	nz	其它专名
+分词	v	动词
+；	wf	分号
+词性	n	名词
+标注	v	动词
+；	wf	分号
+未	d	副词
+登录	v	动词
+词	n	名词
+识别	vn	名动词
+。	wj	全角句号
+
+分词	v	动词
+正确	ad	副形词
+率	v	动词
+高	ad	副形词
+达	v	动词
+97.58%	m	数词
+(	wkz	左括号
+最近	t	时间词
+的	ude1	的 底
+973	m	数词
+专家组	n	名词
+评测	vn	名动词
+结果	n	名词
+)	wky	右括号
+，	wd	逗号
+
+基于	p	介词
+角色	n	名词
+标注	v	动词
+的	ude1	的 底
+未	d	副词
+登录	v	动词
+词	n	名词
+识别	v	动词
+能	v	动词
+取得	v	动词
+高于	v	动词
+90%	m	数词
+召回	v	动词
+率	v	动词
+，	wd	逗号
+
+其中	rz	指示代词
+中国	ns	地名
+人	n	名词
+名	q	量词
+的	ude1	的 底
+识别	vn	名动词
+召回	v	动词
+率	k	后缀
+接近	v	动词
+98%	m	数词
+，	wd	逗号
+
+分词	v	动词
+和	cc	并列连词
+词性	n	名词
+标注	v	动词
+处理	v	动词
+速度	n	名词
+为	v	动词
+31.5KB/s	url	网址URL
+。	wj	全角句号
+
+ICTCLAS	x	字符串
+和	cc	并列连词
+计算	vn	名动词
+所	n	名词
+其他	rzv	谓词性指示代词
+14	m	数词
+项	q	量词
+免费	vd	副动词
+发布	v	动词
+的	ude1	的 底
+成果	n	名词
+被	pbei	介词“被”
+中外	b	区别词
+媒体	n	名词
+广泛	a	形容词
+地	ude2	地
+报道	v	动词
+
