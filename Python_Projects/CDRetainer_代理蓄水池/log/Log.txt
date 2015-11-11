@@ -1,0 +1,1879 @@
+[Notice] XICI Finished. 11-10 14:44:15
+[Notice] KUAI Finished. 11-10 14:44:17
+[Warning] P360 Failed for HTTP Error 503: Service Unavailable 11-10 14:44:18
+[Notice] CZ88 Finished. 11-10 14:44:18
+[Notice] 39.171.137.86:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:44:21
+[Notice] 39.171.137.86:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:44:24
+[Notice] 39.171.137.86:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:44:27
+[Notice] 120.198.236.10:80 Passed [Target 0] 11-10 14:44:28
+[Notice] 120.198.236.10:80 Passed [Target 1] 11-10 14:44:28
+[Notice] 120.198.236.10:80 Passed [Target 2] 11-10 14:44:29
+[Notice] 113.255.215.158:80 Failed, '' 11-10 14:44:30
+[Notice] 113.255.215.158:80 Failed, '' 11-10 14:44:31
+[Notice] 113.255.215.158:80 Passed [Target 2] 11-10 14:44:36
+[Notice] 218.200.66.196:8080 Passed [Target 0] 11-10 14:44:36
+[Notice] 218.200.66.196:8080 Passed [Target 1] 11-10 14:44:36
+[Notice] 218.200.66.196:8080 Passed [Target 2] 11-10 14:44:37
+[Notice] 220.248.224.242:8089 Passed [Target 0] 11-10 14:44:38
+[Notice] 220.248.224.242:8089 Passed [Target 1] 11-10 14:44:39
+[Notice] 220.248.224.242:8089 Passed [Target 2] 11-10 14:44:41
+[Notice] 182.40.164.97:8090 Failed, timed out 11-10 14:44:51
+[Notice] 182.40.164.97:8090 Failed, timed out 11-10 14:45:01
+[Notice] 182.40.164.97:8090 Failed, timed out 11-10 14:45:11
+[Notice] 182.90.3.6:80 Passed [Target 0] 11-10 14:45:13
+[Notice] 182.90.3.6:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:45:16
+[Notice] 182.90.3.6:80 Passed [Target 2] 11-10 14:45:18
+[Notice] 61.223.234.56:8888 Passed [Target 0] 11-10 14:45:20
+[Notice] 61.223.234.56:8888 Passed [Target 1] 11-10 14:45:22
+[Notice] 61.223.234.56:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:45:22
+[Notice] 58.218.198.61:808 Failed, [Errno 104] Connection reset by peer 11-10 14:45:22
+[Notice] 58.218.198.61:808 Failed, [Errno 104] Connection reset by peer 11-10 14:45:22
+[Notice] 58.218.198.61:808 Failed, [Errno 104] Connection reset by peer 11-10 14:45:22
+[Notice] 61.223.229.59:8888 Failed, timed out 11-10 14:45:37
+[Notice] 61.223.229.59:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:45:37
+[Notice] 61.223.229.59:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:45:37
+[Notice] 61.223.237.19:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:45:37
+[Notice] 61.223.237.19:8888 Passed [Target 1] 11-10 14:45:39
+[Notice] 61.223.237.19:8888 Passed [Target 2] 11-10 14:45:39
+[Notice] 61.165.98.156:18186 Failed, timed out 11-10 14:45:49
+[Notice] 61.165.98.156:18186 Failed, timed out 11-10 14:45:59
+[Notice] 61.165.98.156:18186 Failed, '' 11-10 14:46:00
+[Notice] 118.170.40.29:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:03
+[Notice] 118.170.40.29:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:06
+[Notice] 118.170.40.29:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:09
+[Notice] 121.31.79.19:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:12
+[Notice] 121.31.79.19:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:15
+[Notice] 121.31.79.19:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:18
+[Notice] 182.90.61.212:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:21
+[Notice] 182.90.61.212:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:24
+[Notice] 182.90.61.212:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:27
+[Notice] 219.140.147.208:18186 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:46:27
+[Notice] 219.140.147.208:18186 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:46:27
+[Notice] 219.140.147.208:18186 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:46:27
+[Notice] 182.87.87.38:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:30
+[Notice] 182.87.87.38:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:33
+[Notice] 182.87.87.38:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:36
+[Notice] 171.113.114.186:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:39
+[Notice] 171.113.114.186:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:42
+[Notice] 171.113.114.186:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:45
+[Notice] 111.252.138.237:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:46:45
+[Notice] 111.252.138.237:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:46:45
+[Notice] 111.252.138.237:8888 Passed [Target 2] 11-10 14:46:46
+[Notice] 182.90.18.84:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:49
+[Notice] 182.90.18.84:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:52
+[Notice] 182.90.18.84:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:55
+[Notice] 171.38.40.91:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:46:58
+[Notice] 171.38.40.91:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:01
+[Notice] 171.38.40.91:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:04
+[Notice] 182.90.30.248:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:07
+[Notice] 182.90.30.248:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:10
+[Notice] 182.90.30.248:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:13
+[Notice] 110.72.6.184:8123 Failed, timed out 11-10 14:47:24
+[Notice] 110.72.6.184:8123 Failed, timed out 11-10 14:47:34
+[Notice] 110.72.6.184:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:37
+[Notice] 180.107.138.238:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:40
+[Notice] 180.107.138.238:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:43
+[Notice] 180.107.138.238:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:46
+[Notice] 183.141.64.236:3128 Failed, timed out 11-10 14:47:56
+[Notice] 183.141.64.236:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:47:59
+[Notice] 183.141.64.236:3128 Failed, timed out 11-10 14:48:09
+[Notice] 182.88.229.186:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:48:12
+[Notice] 182.88.229.186:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:48:15
+[Notice] 182.88.229.186:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:48:18
+[Notice] 119.97.164.48:8085 Passed [Target 0] 11-10 14:48:19
+[Notice] 119.97.164.48:8085 Passed [Target 1] 11-10 14:48:20
+[Notice] 119.97.164.48:8085 Failed, HTTP Error 400: Bad Request 11-10 14:48:20
+[Notice] 114.26.2.215:8888 Passed [Target 0] 11-10 14:48:22
+[Notice] 114.26.2.215:8888 Passed [Target 1] 11-10 14:48:24
+[Notice] 114.26.2.215:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:48:24
+[Notice] 182.89.5.239:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:48:27
+[Notice] 182.89.5.239:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:48:30
+[Notice] 182.89.5.239:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:48:33
+[Notice] 125.123.87.85:3128 Failed, timed out 11-10 14:48:43
+[Notice] 125.123.87.85:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:48:46
+[Notice] 125.123.87.85:3128 Failed, timed out 11-10 14:48:56
+[Notice] 61.223.224.222:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:48:56
+[Notice] 61.223.224.222:8888 Passed [Target 1] 11-10 14:48:58
+[Notice] 61.223.224.222:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:48:58
+[Notice] 182.90.24.31:80 Failed, HTTP Error 403: Forbidden 11-10 14:48:58
+[Notice] 182.90.24.31:80 Failed, HTTP Error 403: Forbidden 11-10 14:48:59
+[Notice] 182.90.24.31:80 Failed, HTTP Error 400: Bad Request 11-10 14:48:59
+[Notice] 182.90.72.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:02
+[Notice] 182.90.72.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:05
+[Notice] 182.90.72.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:08
+[Notice] 182.90.35.229:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:11
+[Notice] 182.90.35.229:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:14
+[Notice] 182.90.35.229:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:17
+[Notice] 122.232.230.108:3128 Failed, timed out 11-10 14:49:28
+[Notice] 122.232.230.108:3128 Failed, [Errno 104] Connection reset by peer 11-10 14:49:38
+[Notice] 122.232.230.108:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:41
+[Notice] 153.36.56.31:18186 Failed, [Errno 104] Connection reset by peer 11-10 14:49:41
+[Notice] 153.36.56.31:18186 Failed, [Errno 104] Connection reset by peer 11-10 14:49:41
+[Notice] 153.36.56.31:18186 Failed, [Errno 104] Connection reset by peer 11-10 14:49:42
+[Notice] 112.228.220.97:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:45
+[Notice] 112.228.220.97:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:48
+[Notice] 112.228.220.97:18186 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:49:51
+[Notice] 182.90.67.204:80 Failed, HTTP Error 404: Not Found 11-10 14:49:51
+[Notice] 182.90.67.204:80 Failed, HTTP Error 404: Not Found 11-10 14:49:52
+[Notice] 182.90.67.204:80 Failed, HTTP Error 404: Not Found 11-10 14:49:59
+[Notice] 171.39.235.215:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:02
+[Notice] 171.39.235.215:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:05
+[Notice] 171.39.235.215:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:08
+[Notice] 118.170.39.41:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:08
+[Notice] 118.170.39.41:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:08
+[Notice] 118.170.39.41:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:11
+[Notice] 1.165.233.230:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:14
+[Notice] 1.165.233.230:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:17
+[Notice] 1.165.233.230:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:20
+[Notice] 114.46.184.125:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:20
+[Notice] 114.46.184.125:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:20
+[Notice] 114.46.184.125:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:20
+[Notice] 110.72.28.135:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:23
+[Notice] 110.72.28.135:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:26
+[Notice] 110.72.28.135:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:29
+[Notice] 119.253.252.29:3128 Passed [Target 0] 11-10 14:50:37
+[Notice] 119.253.252.29:3128 Passed [Target 1] 11-10 14:50:39
+[Notice] 119.253.252.29:3128 Passed [Target 2] 11-10 14:50:44
+[Notice] 58.23.215.100:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:44
+[Notice] 58.23.215.100:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:44
+[Notice] 58.23.215.100:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:44
+[Notice] 171.38.39.88:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:47
+[Notice] 171.38.39.88:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:50
+[Notice] 171.38.39.88:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:50:53
+[Notice] 61.224.151.32:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:54
+[Notice] 61.224.151.32:8888 Passed [Target 1] 11-10 14:50:57
+[Notice] 61.224.151.32:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:50:58
+[Notice] 182.90.37.245:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:51:01
+[Notice] 182.90.37.245:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:51:04
+[Notice] 182.90.37.245:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:51:07
+[Notice] 110.73.46.98:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:51:10
+[Notice] 110.73.46.98:8123 Failed, [Errno 104] Connection reset by peer 11-10 14:51:17
+[Notice] 110.73.46.98:8123 Passed [Target 2] 11-10 14:51:18
+[Notice] 171.38.24.58:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:51:21
+[Notice] 171.38.24.58:8123 Failed, timed out 11-10 14:51:31
+[Notice] 171.38.24.58:8123 Failed, timed out 11-10 14:51:41
+[Notice] 171.38.190.69:8123 Failed, timed out 11-10 14:51:51
+[Notice] 171.38.190.69:8123 Failed, timed out 11-10 14:52:01
+[Notice] 171.38.190.69:8123 Failed, timed out 11-10 14:52:12
+[Notice] 182.90.50.125:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:15
+[Notice] 182.90.50.125:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:18
+[Notice] 182.90.50.125:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:21
+[Notice] 182.90.35.32:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:24
+[Notice] 182.90.35.32:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:27
+[Notice] 182.90.35.32:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:30
+[Notice] 119.188.94.145:80 Passed [Target 0] 11-10 14:52:33
+[Notice] 119.188.94.145:80 Passed [Target 1] 11-10 14:52:34
+[Notice] 119.188.94.145:80 Passed [Target 2] 11-10 14:52:35
+[Notice] 182.90.39.240:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:38
+[Notice] 182.90.39.240:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:41
+[Notice] 182.90.39.240:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:52:44
+[Notice] 121.31.100.18:8123 Failed, timed out 11-10 14:52:54
+[Notice] 121.31.100.18:8123 Failed, timed out 11-10 14:53:05
+[Notice] 121.31.100.18:8123 Failed, timed out 11-10 14:53:15
+[Notice] 119.253.252.23:3128 Failed, '' 11-10 14:53:17
+[Notice] 119.253.252.23:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:53:17
+[Notice] 119.253.252.23:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:53:17
+[Notice] 61.223.169.250:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:53:17
+[Notice] 61.223.169.250:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:53:17
+[Notice] 61.223.169.250:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:53:17
+[Notice] 115.154.71.39:37564 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:53:20
+[Notice] 115.154.71.39:37564 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:53:23
+[Notice] 115.154.71.39:37564 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:53:26
+[Notice] 111.252.139.84:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:53:27
+[Notice] 111.252.139.84:8888 Passed [Target 1] 11-10 14:53:29
+[Notice] 111.252.139.84:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:53:29
+[Notice] 115.228.48.210:3128 Failed, timed out 11-10 14:53:39
+[Notice] 115.228.48.210:3128 Failed, timed out 11-10 14:53:49
+[Notice] 115.228.48.210:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:53:52
+[Notice] 110.73.8.176:8123 Failed, timed out 11-10 14:54:02
+[Notice] 110.73.8.176:8123 Failed, timed out 11-10 14:54:12
+[Notice] 110.73.8.176:8123 Failed, timed out 11-10 14:54:23
+[Notice] 182.90.18.155:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:54:26
+[Notice] 182.90.18.155:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:54:29
+[Notice] 182.90.18.155:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:54:32
+[Notice] 121.31.92.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:54:35
+[Notice] 121.31.92.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:54:38
+[Notice] 121.31.92.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:54:41
+[Notice] 114.26.8.100:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:54:41
+[Notice] 114.26.8.100:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:54:41
+[Notice] 114.26.8.100:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:54:41
+[Notice] 115.228.51.46:3128 Failed, timed out 11-10 14:54:51
+[Notice] 115.228.51.46:3128 Failed, timed out 11-10 14:55:01
+[Notice] 115.228.51.46:3128 Failed, timed out 11-10 14:55:11
+[Notice] 39.158.158.14:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:14
+[Notice] 39.158.158.14:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:17
+[Notice] 39.158.158.14:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:20
+[Notice] 114.26.7.77:8888 Passed [Target 0] 11-10 14:55:22
+[Notice] 114.26.7.77:8888 Passed [Target 1] 11-10 14:55:24
+[Notice] 114.26.7.77:8888 Passed [Target 2] 11-10 14:55:25
+[Notice] 182.90.23.83:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:28
+[Notice] 182.90.23.83:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:31
+[Notice] 182.90.23.83:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:34
+[Notice] 182.90.31.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:37
+[Notice] 182.90.31.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:40
+[Notice] 182.90.31.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:43
+[Notice] 182.90.75.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:46
+[Notice] 182.90.75.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:49
+[Notice] 182.90.75.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:52
+[Notice] 121.31.100.22:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:55:55
+[Notice] 121.31.100.22:8123 Failed, timed out 11-10 14:56:05
+[Notice] 121.31.100.22:8123 Failed, timed out 11-10 14:56:15
+[Notice] 182.90.7.92:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:18
+[Notice] 182.90.7.92:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:21
+[Notice] 182.90.7.92:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:24
+[Notice] 58.117.160.12:8585 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:56:24
+[Notice] 58.117.160.12:8585 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:56:24
+[Notice] 58.117.160.12:8585 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:56:24
+[Notice] 171.37.135.229:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:27
+[Notice] 171.37.135.229:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:30
+[Notice] 171.37.135.229:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:33
+[Notice] 36.232.187.168:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:36
+[Notice] 36.232.187.168:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:39
+[Notice] 36.232.187.168:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:56:42
+[Notice] 111.11.228.77:80 Failed, HTTP Error 503: Service Unavailable 11-10 14:56:42
+[Notice] 111.11.228.77:80 Failed, HTTP Error 503: Service Unavailable 11-10 14:56:43
+[Notice] 111.11.228.77:80 Failed, HTTP Error 503: Service Unavailable 11-10 14:56:43
+[Notice] 61.223.225.241:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:56:43
+[Notice] 61.223.225.241:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:56:43
+[Notice] 61.223.225.241:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:56:43
+[Notice] 183.141.73.207:3128 Failed, timed out 11-10 14:56:53
+[Notice] 183.141.73.207:3128 Failed, timed out 11-10 14:57:04
+[Notice] 183.141.73.207:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:57:07
+[Notice] 125.87.85.41:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:57:10
+[Notice] 125.87.85.41:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:57:13
+[Notice] 125.87.85.41:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:57:16
+[Notice] 183.141.171.21:3128 Failed, timed out 11-10 14:57:26
+[Notice] 183.141.171.21:3128 Failed, timed out 11-10 14:57:36
+[Notice] 183.141.171.21:3128 Failed, timed out 11-10 14:57:46
+[Notice] 121.31.100.207:8123 Failed, timed out 11-10 14:57:56
+[Notice] 121.31.100.207:8123 Failed, timed out 11-10 14:58:06
+[Notice] 121.31.100.207:8123 Failed, timed out 11-10 14:58:17
+[Notice] 36.235.46.44:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:58:17
+[Notice] 36.235.46.44:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:58:17
+[Notice] 36.235.46.44:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:58:17
+[Notice] 171.38.75.7:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:58:20
+[Notice] 171.38.75.7:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:58:23
+[Notice] 171.38.75.7:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:58:26
+[Notice] 171.38.38.225:8123 Failed, timed out 11-10 14:58:36
+[Notice] 171.38.38.225:8123 Failed, timed out 11-10 14:58:47
+[Notice] 171.38.38.225:8123 Failed, timed out 11-10 14:58:57
+[Notice] 122.232.230.80:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:00
+[Notice] 122.232.230.80:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:03
+[Notice] 122.232.230.80:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:06
+[Notice] 114.239.88.216:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:59:06
+[Notice] 114.239.88.216:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:59:07
+[Notice] 114.239.88.216:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:59:07
+[Notice] 182.90.62.53:80 Failed, HTTP Error 403: Forbidden 11-10 14:59:07
+[Notice] 182.90.62.53:80 Failed, HTTP Error 403: Forbidden 11-10 14:59:07
+[Notice] 182.90.62.53:80 Failed, [Errno 104] Connection reset by peer 11-10 14:59:07
+[Notice] 110.191.195.57:18186 Failed, timed out 11-10 14:59:17
+[Notice] 110.191.195.57:18186 Failed, timed out 11-10 14:59:27
+[Notice] 110.191.195.57:18186 Failed, timed out 11-10 14:59:38
+[Notice] 123.59.12.25:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:41
+[Notice] 123.59.12.25:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:44
+[Notice] 123.59.12.25:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:47
+[Notice] 182.88.161.105:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:50
+[Notice] 182.88.161.105:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:53
+[Notice] 182.88.161.105:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:56
+[Notice] 171.37.135.219:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:59:56
+[Notice] 171.37.135.219:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:59:56
+[Notice] 171.37.135.219:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 14:59:56
+[Notice] 182.90.4.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 14:59:59
+[Notice] 182.90.4.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:02
+[Notice] 182.90.4.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:05
+[Notice] 115.46.114.240:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:08
+[Notice] 115.46.114.240:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:11
+[Notice] 115.46.114.240:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:14
+[Notice] 36.233.49.123:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:17
+[Notice] 36.233.49.123:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:20
+[Notice] 36.233.49.123:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:23
+[Notice] 182.90.23.115:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:26
+[Notice] 182.90.23.115:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:29
+[Notice] 182.90.23.115:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:32
+[Notice] 182.90.8.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:35
+[Notice] 182.90.8.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:38
+[Notice] 182.90.8.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:41
+[Notice] 182.201.248.254:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:44
+[Notice] 182.201.248.254:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:47
+[Notice] 182.201.248.254:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:50
+[Notice] 171.37.255.215:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:53
+[Notice] 171.37.255.215:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:56
+[Notice] 171.37.255.215:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:00:59
+[Notice] 110.72.199.215:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:00:59
+[Notice] 110.72.199.215:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:00:59
+[Notice] 110.72.199.215:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:01:00
+[Notice] 111.11.184.51:9999 Passed [Target 0] 11-10 15:01:00
+[Notice] 111.11.184.51:9999 Passed [Target 1] 11-10 15:01:00
+[Notice] 111.11.184.51:9999 Passed [Target 2] 11-10 15:01:00
+[Notice] 101.26.38.162:80 Passed [Target 0] 11-10 15:01:01
+[Notice] 101.26.38.162:80 Passed [Target 1] 11-10 15:01:02
+[Notice] 101.26.38.162:80 Passed [Target 2] 11-10 15:01:03
+[Notice] 210.51.191.117:8118 Passed [Target 0] 11-10 15:01:04
+[Notice] 210.51.191.117:8118 Passed [Target 1] 11-10 15:01:05
+[Notice] 210.51.191.117:8118 Passed [Target 2] 11-10 15:01:06
+[Notice] 175.43.123.1:55336 Passed [Target 0] 11-10 15:01:07
+[Notice] 175.43.123.1:55336 Passed [Target 1] 11-10 15:01:10
+[Notice] 175.43.123.1:55336 Passed [Target 2] 11-10 15:01:16
+[Notice] 113.4.156.73:3128 Failed, timed out 11-10 15:01:33
+[Notice] 113.4.156.73:3128 Failed, timed out 11-10 15:01:56
+[Notice] 113.4.156.73:3128 Failed, timed out 11-10 15:02:08
+[Notice] 118.144.151.145:3128 Passed [Target 0] 11-10 15:02:09
+[Notice] 118.144.151.145:3128 Passed [Target 1] 11-10 15:02:13
+[Notice] 118.144.151.145:3128 Passed [Target 2] 11-10 15:02:15
+[Notice] 119.184.122.37:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:02:15
+[Notice] 119.184.122.37:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:02:15
+[Notice] 119.184.122.37:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:02:16
+[Notice] 220.249.185.178:9999 Failed, timed out 11-10 15:02:26
+[Notice] 220.249.185.178:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:02:29
+[Notice] 220.249.185.178:9999 Failed, timed out 11-10 15:02:39
+[Notice] 163.125.228.7:9797 Failed, timed out 11-10 15:02:49
+[Notice] 163.125.228.7:9797 Failed, timed out 11-10 15:03:02
+[Notice] 163.125.228.7:9797 Failed, timed out 11-10 15:03:12
+[Notice] 183.189.22.51:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:15
+[Notice] 183.189.22.51:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:18
+[Notice] 183.189.22.51:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:21
+[Notice] 163.125.20.158:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:24
+[Notice] 163.125.20.158:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:27
+[Notice] 163.125.20.158:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:30
+[Notice] 110.73.157.79:9999 Failed, timed out 11-10 15:03:52
+[Notice] 110.73.157.79:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:55
+[Notice] 110.73.157.79:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:03:58
+[Notice] 114.42.7.220:8080 Passed [Target 0] 11-10 15:04:02
+[Notice] 114.42.7.220:8080 Passed [Target 1] 11-10 15:04:06
+[Notice] 114.42.7.220:8080 Passed [Target 2] 11-10 15:04:09
+[Notice] 58.255.64.180:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:04:09
+[Notice] 58.255.64.180:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:04:09
+[Notice] 58.255.64.180:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:04:10
+[Notice] 220.198.91.214:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:04:13
+[Notice] 220.198.91.214:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:04:16
+[Notice] 220.198.91.214:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:04:19
+[Notice] 110.73.12.181:9999 Passed [Target 0] 11-10 15:04:23
+[Notice] 110.73.12.181:9999 Failed, timed out 11-10 15:04:33
+[Notice] 110.73.12.181:9999 Failed, timed out 11-10 15:04:45
+[Notice] 61.228.72.138:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:04:45
+[Notice] 61.228.72.138:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:04:45
+[Notice] 61.228.72.138:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:04:45
+[Notice] 124.95.37.10:808 Failed, [Errno 104] Connection reset by peer 11-10 15:04:45
+[Notice] 124.95.37.10:808 Failed, [Errno 104] Connection reset by peer 11-10 15:04:45
+[Notice] 124.95.37.10:808 Failed, [Errno 104] Connection reset by peer 11-10 15:04:46
+[Notice] 114.235.6.246:9999 Passed [Target 0] 11-10 15:04:46
+[Notice] 114.235.6.246:9999 Passed [Target 1] 11-10 15:04:46
+[Notice] 114.235.6.246:9999 Passed [Target 2] 11-10 15:04:46
+[Notice] 124.161.161.70:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:04:49
+[Notice] 124.161.161.70:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:04:52
+[Notice] 124.161.161.70:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:04:55
+[Notice] 163.125.70.214:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:04:58
+[Notice] 163.125.70.214:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:05:01
+[Notice] 163.125.70.214:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:05:04
+[Notice] 114.253.188.132:9000 Failed, timed out 11-10 15:05:15
+[Notice] 114.253.188.132:9000 Failed, timed out 11-10 15:05:25
+[Notice] 114.253.188.132:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:05:28
+[Notice] 60.250.81.118:80 Passed [Target 0] 11-10 15:05:31
+[Notice] 60.250.81.118:80 Passed [Target 1] 11-10 15:05:32
+[Notice] 60.250.81.118:80 Passed [Target 2] 11-10 15:05:35
+[Notice] 222.85.127.130:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:05:38
+[Notice] 222.85.127.130:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:05:41
+[Notice] 222.85.127.130:9999 Passed [Target 2] 11-10 15:05:42
+[Notice] 183.31.220.39:9999 Failed, timed out 11-10 15:05:52
+[Notice] 183.31.220.39:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:05:55
+[Notice] 183.31.220.39:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:05:58
+[Notice] 121.8.69.107:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:01
+[Notice] 121.8.69.107:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:04
+[Notice] 121.8.69.107:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:07
+[Notice] 59.48.106.154:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:10
+[Notice] 59.48.106.154:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:13
+[Notice] 59.48.106.154:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:16
+[Notice] 221.228.248.244:8085 Failed, [Errno 104] Connection reset by peer 11-10 15:06:16
+[Notice] 221.228.248.244:8085 Failed, [Errno 104] Connection reset by peer 11-10 15:06:16
+[Notice] 221.228.248.244:8085 Failed, [Errno 104] Connection reset by peer 11-10 15:06:16
+[Notice] 218.19.21.149:808 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:19
+[Notice] 218.19.21.149:808 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:22
+[Notice] 218.19.21.149:808 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:25
+[Notice] 60.223.72.150:1080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:06:25
+[Notice] 60.223.72.150:1080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:06:25
+[Notice] 60.223.72.150:1080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:06:26
+[Notice] 218.241.234.48:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:29
+[Notice] 218.241.234.48:8080 Passed [Target 1] 11-10 15:06:30
+[Notice] 218.241.234.48:8080 Passed [Target 2] 11-10 15:06:37
+[Notice] 124.129.136.150:9999 Failed, timed out 11-10 15:06:48
+[Notice] 124.129.136.150:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:51
+[Notice] 124.129.136.150:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:54
+[Notice] 58.252.6.165:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:06:57
+[Notice] 58.252.6.165:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:00
+[Notice] 58.252.6.165:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:03
+[Notice] 112.101.80.171:9797 Failed, timed out 11-10 15:07:13
+[Notice] 112.101.80.171:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:16
+[Notice] 112.101.80.171:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:19
+[Notice] 61.182.250.10:8118 Failed, HTTP Error 500: Internal Privoxy Error 11-10 15:07:21
+[Notice] 61.182.250.10:8118 Failed, HTTP Error 500: Internal Privoxy Error 11-10 15:07:22
+[Notice] 61.182.250.10:8118 Failed, HTTP Error 500: Internal Privoxy Error 11-10 15:07:23
+[Notice] 101.78.234.177:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:26
+[Notice] 101.78.234.177:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:29
+[Notice] 101.78.234.177:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:32
+[Notice] 203.91.121.74:3128 Passed [Target 0] 11-10 15:07:38
+[Notice] 203.91.121.74:3128 Passed [Target 1] 11-10 15:07:43
+[Notice] 203.91.121.74:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:46
+[Notice] 118.26.143.202:3128 Passed [Target 0] 11-10 15:07:47
+[Notice] 118.26.143.202:3128 Passed [Target 1] 11-10 15:07:47
+[Notice] 118.26.143.202:3128 Passed [Target 2] 11-10 15:07:47
+[Notice] 223.255.14.245:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:07:50
+[Notice] 223.255.14.245:9000 Failed, timed out 11-10 15:08:00
+[Notice] 223.255.14.245:9000 Failed, timed out 11-10 15:08:10
+[Notice] 27.44.156.33:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:08:13
+[Notice] 27.44.156.33:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:08:16
+[Notice] 27.44.156.33:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:08:19
+[Notice] 117.114.129.122:3128 Passed [Target 0] 11-10 15:08:19
+[Notice] 117.114.129.122:3128 Passed [Target 1] 11-10 15:08:19
+[Notice] 117.114.129.122:3128 Passed [Target 2] 11-10 15:08:19
+[Notice] 218.250.211.165:3128 Failed, timed out 11-10 15:08:29
+[Notice] 218.250.211.165:3128 Failed, timed out 11-10 15:08:39
+[Notice] 218.250.211.165:3128 Failed, timed out 11-10 15:08:49
+[Notice] 183.62.9.84:8080 Passed [Target 0] 11-10 15:08:55
+[Notice] 183.62.9.84:8080 Passed [Target 1] 11-10 15:08:57
+[Notice] 183.62.9.84:8080 Passed [Target 2] 11-10 15:09:00
+[Notice] 112.105.87.116:8080 Failed, timed out 11-10 15:09:11
+[Notice] 112.105.87.116:8080 Failed, timed out 11-10 15:09:21
+[Notice] 112.105.87.116:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:24
+[Notice] 121.30.157.213:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:09:24
+[Notice] 121.30.157.213:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:09:24
+[Notice] 121.30.157.213:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:09:24
+[Notice] 123.125.8.253:1209 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:27
+[Notice] 123.125.8.253:1209 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:30
+[Notice] 123.125.8.253:1209 Passed [Target 2] 11-10 15:09:34
+[Notice] 120.24.223.77:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:37
+[Notice] 120.24.223.77:3128 Passed [Target 1] 11-10 15:09:45
+[Notice] 120.24.223.77:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:48
+[Notice] 222.140.4.8:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:51
+[Notice] 222.140.4.8:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:54
+[Notice] 222.140.4.8:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:09:57
+[Notice] 202.103.215.199:80 Passed [Target 0] 11-10 15:09:58
+[Notice] 202.103.215.199:80 Passed [Target 1] 11-10 15:09:58
+[Notice] 202.103.215.199:80 Passed [Target 2] 11-10 15:09:59
+[Notice] 58.59.68.91:9797 Failed, timed out 11-10 15:10:10
+[Notice] 58.59.68.91:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:13
+[Notice] 58.59.68.91:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:16
+[Notice] 14.208.87.208:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:19
+[Notice] 14.208.87.208:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:22
+[Notice] 14.208.87.208:9797 Passed [Target 2] 11-10 15:10:31
+[Notice] 121.8.170.53:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:34
+[Notice] 121.8.170.53:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:37
+[Notice] 121.8.170.53:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:40
+[Notice] 14.218.226.239:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:43
+[Notice] 14.218.226.239:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:46
+[Notice] 14.218.226.239:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:49
+[Notice] 14.25.92.161:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:10:49
+[Notice] 14.25.92.161:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:10:49
+[Notice] 14.25.92.161:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:10:49
+[Notice] 113.89.66.189:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:52
+[Notice] 113.89.66.189:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:55
+[Notice] 113.89.66.189:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:10:58
+[Notice] 36.237.209.111:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:10:58
+[Notice] 36.237.209.111:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:10:58
+[Notice] 36.237.209.111:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:10:58
+[Notice] 118.26.62.234:3128 Passed [Target 0] 11-10 15:11:00
+[Notice] 118.26.62.234:3128 Passed [Target 1] 11-10 15:11:00
+[Notice] 118.26.62.234:3128 Passed [Target 2] 11-10 15:11:00
+[Notice] 27.44.155.138:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:11:03
+[Notice] 27.44.155.138:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:11:06
+[Notice] 27.44.155.138:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:11:09
+[Notice] 124.202.175.230:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:11:12
+[Notice] 124.202.175.230:9797 Failed, timed out 11-10 15:11:22
+[Notice] 124.202.175.230:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:11:25
+[Notice] 36.99.248.249:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:11:28
+[Notice] 36.99.248.249:9000 Failed, timed out 11-10 15:11:38
+[Notice] 36.99.248.249:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:11:41
+[Notice] 59.78.160.245:8080 Passed [Target 0] 11-10 15:11:42
+[Notice] 59.78.160.245:8080 Passed [Target 1] 11-10 15:11:43
+[Notice] 59.78.160.245:8080 Passed [Target 2] 11-10 15:11:44
+[Notice] 117.30.220.37:3128 Passed [Target 0] 11-10 15:11:46
+[Notice] 117.30.220.37:3128 Passed [Target 1] 11-10 15:11:46
+[Notice] 117.30.220.37:3128 Failed, HTTP Error 504: Gateway Time-out 11-10 15:11:46
+[Notice] 203.156.211.116:8080 Passed [Target 0] 11-10 15:11:46
+[Notice] 203.156.211.116:8080 Passed [Target 1] 11-10 15:11:47
+[Notice] 203.156.211.116:8080 Passed [Target 2] 11-10 15:11:47
+[Notice] 36.235.90.153:3128 Failed, [Errno 104] Connection reset by peer 11-10 15:11:47
+[Notice] 36.235.90.153:3128 Failed, timed out 11-10 15:11:57
+[Notice] 36.235.90.153:3128 Failed, [Errno 104] Connection reset by peer 11-10 15:11:57
+[Notice] 27.44.171.222:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:00
+[Notice] 27.44.171.222:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:03
+[Notice] 27.44.171.222:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:06
+[Notice] 114.47.228.3:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:09
+[Notice] 114.47.228.3:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:12
+[Notice] 114.47.228.3:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:15
+[Notice] 113.116.92.42:9000 Failed, timed out 11-10 15:12:26
+[Notice] 113.116.92.42:9000 Failed, timed out 11-10 15:12:36
+[Notice] 113.116.92.42:9000 Failed, timed out 11-10 15:12:47
+[Notice] 101.81.66.184:9797 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:12:47
+[Notice] 101.81.66.184:9797 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:12:47
+[Notice] 101.81.66.184:9797 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:12:47
+[Notice] 122.227.167.230:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:50
+[Notice] 122.227.167.230:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:53
+[Notice] 122.227.167.230:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:56
+[Notice] 114.42.16.45:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:12:59
+[Notice] 114.42.16.45:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:02
+[Notice] 114.42.16.45:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:05
+[Notice] 202.194.234.123:8080 Passed [Target 0] 11-10 15:13:09
+[Notice] 202.194.234.123:8080 Failed, timed out 11-10 15:13:19
+[Notice] 202.194.234.123:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:22
+[Notice] 123.247.158.18:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:25
+[Notice] 123.247.158.18:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:28
+[Notice] 123.247.158.18:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:31
+[Notice] 101.81.66.250:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:34
+[Notice] 101.81.66.250:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:37
+[Notice] 101.81.66.250:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:13:40
+[Notice] 211.144.72.154:80 Failed, HTTP Error 403: Forbidden 11-10 15:13:40
+[Notice] 211.144.72.154:80 Failed, HTTP Error 403: Forbidden 11-10 15:13:40
+[Notice] 211.144.72.154:80 Failed, HTTP Error 403: Forbidden 11-10 15:13:40
+[Notice] 202.118.8.13:3128 Failed, timed out 11-10 15:13:51
+[Notice] 202.118.8.13:3128 Passed [Target 1] 11-10 15:14:01
+[Notice] 113.66.182.89:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:14:15
+[Notice] 113.66.182.89:9999 Failed, timed out 11-10 15:14:26
+[Notice] 113.66.182.89:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:14:29
+[Notice] 113.108.141.98:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:14:32
+[Notice] 113.108.141.98:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:14:35
+[Notice] 113.108.141.98:9797 Failed, [Errno 104] Connection reset by peer 11-10 15:14:43
+[Notice] 14.222.13.18:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:14:43
+[Notice] 14.222.13.18:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:14:43
+[Notice] 14.222.13.18:9999 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:14:43
+[Notice] 61.145.217.106:8001 Failed, timed out 11-10 15:14:53
+[Notice] 61.145.217.106:8001 Failed, timed out 11-10 15:15:03
+[Notice] 61.145.217.106:8001 Failed, timed out 11-10 15:15:13
+[Notice] 121.32.52.98:9999 Passed [Target 0] 11-10 15:15:20
+[Notice] 121.32.52.98:9999 Passed [Target 1] 11-10 15:15:22
+[Notice] 121.32.52.98:9999 Passed [Target 2] 11-10 15:15:29
+[Notice] 61.145.162.21:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:32
+[Notice] 61.145.162.21:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:35
+[Notice] 61.145.162.21:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:38
+[Notice] 180.173.102.189:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:41
+[Notice] 180.173.102.189:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:44
+[Notice] 180.173.102.189:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:47
+[Notice] 113.108.184.250:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:50
+[Notice] 113.108.184.250:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:53
+[Notice] 113.108.184.250:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:15:56
+[Notice] 202.46.32.9:8080 Failed, timed out 11-10 15:16:06
+[Notice] 202.46.32.9:8080 Failed, timed out 11-10 15:16:16
+[Notice] 202.46.32.9:8080 Failed, timed out 11-10 15:16:26
+[Notice] 116.204.12.125:8080 Failed, timed out 11-10 15:16:37
+[Notice] 116.204.12.125:8080 Failed, timed out 11-10 15:16:47
+[Notice] 116.204.12.125:8080 Failed, timed out 11-10 15:16:57
+[Notice] 220.202.123.42:55336 Passed [Target 0] 11-10 15:16:58
+[Notice] 220.202.123.42:55336 Passed [Target 1] 11-10 15:16:59
+[Notice] 220.202.123.42:55336 Failed, timed out 11-10 15:17:09
+[Notice] 119.127.227.36:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:17:12
+[Notice] 119.127.227.36:9999 Passed [Target 2] 11-10 15:17:29
+[Notice] 101.81.66.166:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:17:32
+[Notice] 101.81.66.166:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:17:35
+[Notice] 101.81.66.166:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:17:38
+[Notice] 59.41.154.148:3128 Failed, timed out 11-10 15:17:49
+[Notice] 59.41.154.148:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:17:52
+[Notice] 59.41.154.148:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:17:55
+[Notice] 42.96.131.88:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:17:55
+[Notice] 42.96.131.88:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:17:55
+[Notice] 42.96.131.88:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:17:55
+[Notice] 113.111.64.97:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:17:58
+[Notice] 113.111.64.97:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:01
+[Notice] 113.111.64.97:9000 Failed, [Errno 104] Connection reset by peer 11-10 15:18:08
+[Notice] 115.62.94.3:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:11
+[Notice] 115.62.94.3:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:14
+[Notice] 115.62.94.3:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:17
+[Notice] 101.81.70.210:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:20
+[Notice] 101.81.70.210:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:23
+[Notice] 101.81.70.210:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:26
+[Notice] 112.93.137.202:9000 Failed, timed out 11-10 15:18:36
+[Notice] 112.93.137.202:9000 Failed, [Errno 104] Connection reset by peer 11-10 15:18:45
+[Notice] 112.93.137.202:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:48
+[Notice] 42.226.54.53:80 Failed, HTTP Error 403: Forbidden 11-10 15:18:48
+[Notice] 42.226.54.53:80 Failed, HTTP Error 403: Forbidden 11-10 15:18:48
+[Notice] 42.226.54.53:80 Failed, HTTP Error 400: Bad Request 11-10 15:18:48
+[Notice] 222.128.184.226:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:51
+[Notice] 222.128.184.226:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:54
+[Notice] 222.128.184.226:9000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:18:57
+[Notice] 60.235.248.146:9999 Passed [Target 0] 11-10 15:18:58
+[Notice] 60.235.248.146:9999 Passed [Target 1] 11-10 15:18:58
+[Notice] 60.235.248.146:9999 Passed [Target 2] 11-10 15:18:58
+[Notice] 113.76.135.58:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:01
+[Notice] 113.76.135.58:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:04
+[Notice] 113.76.135.58:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:07
+[Notice] 222.42.146.106:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:10
+[Notice] 222.42.146.106:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:13
+[Notice] 222.42.146.106:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:16
+[Notice] 14.222.22.0:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:19
+[Notice] 14.222.22.0:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:22
+[Notice] 14.222.22.0:9999 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:19:25
+[Notice] 151.80.195.189:8080 Failed, timed out 11-10 15:19:35
+[Notice] 151.80.195.189:8080 Passed [Target 1] 11-10 15:19:38
+[Notice] 151.80.195.189:8080 Passed [Target 2] 11-10 15:19:40
+[Notice] 110.45.135.229:8080 Failed, timed out 11-10 15:19:55
+[Notice] 110.45.135.229:8080 Passed [Target 1] 11-10 15:20:03
+[Notice] 110.45.135.229:8080 Failed, timed out 11-10 15:20:15
+[Notice] 213.208.177.124:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:20:18
+[Notice] 213.208.177.124:3128 Failed, timed out 11-10 15:20:28
+[Notice] 213.208.177.124:3128 Failed, '' 11-10 15:20:30
+[Notice] 212.126.112.142:8080 Passed [Target 0] 11-10 15:20:35
+[Notice] 212.126.112.142:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:20:38
+[Notice] 212.126.112.142:8080 Passed [Target 2] 11-10 15:20:43
+[Notice] 217.103.196.231:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:20:46
+[Notice] 217.103.196.231:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:20:49
+[Notice] 217.103.196.231:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:20:52
+[Notice] 58.120.96.231:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:20:52
+[Notice] 58.120.96.231:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:20:52
+[Notice] 58.120.96.231:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:20:52
+[Notice] 62.201.200.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:20:55
+[Notice] 62.201.200.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:20:58
+[Notice] 62.201.200.17:80 Failed, timed out 11-10 15:21:12
+[Notice] 213.85.92.10:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:21:15
+[Notice] 213.85.92.10:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:21:18
+[Notice] 213.85.92.10:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:21:21
+[Notice] 213.136.79.124:80 Failed, timed out 11-10 15:21:41
+[Notice] 213.136.79.124:80 Failed, timed out 11-10 15:21:53
+[Notice] 213.136.79.124:80 Failed, timed out 11-10 15:22:28
+[Notice] 183.89.111.168:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:22:31
+[Notice] 183.89.111.168:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:22:34
+[Notice] 183.89.111.168:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:22:37
+[Notice] 113.30.102.95:3128 Passed [Target 0] 11-10 15:22:38
+[Notice] 113.30.102.95:3128 Passed [Target 1] 11-10 15:22:38
+[Notice] 113.30.102.95:3128 Passed [Target 2] 11-10 15:22:39
+[Notice] 117.240.187.35:3128 Passed [Target 0] 11-10 15:22:44
+[Notice] 117.240.187.35:3128 Passed [Target 1] 11-10 15:22:50
+[Notice] 117.240.187.35:3128 Failed, HTTP Error 403: Forbidden 11-10 15:22:51
+[Notice] 165.225.158.70:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:22:54
+[Notice] 165.225.158.70:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:22:57
+[Notice] 165.225.158.70:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:23:00
+[Notice] 171.7.136.220:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:23:03
+[Notice] 171.7.136.220:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:23:06
+[Notice] 171.7.136.220:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:23:09
+[Notice] 106.240.250.106:808 Failed, [Errno 104] Connection reset by peer 11-10 15:23:09
+[Notice] 106.240.250.106:808 Failed, [Errno 104] Connection reset by peer 11-10 15:23:09
+[Notice] 106.240.250.106:808 Failed, [Errno 104] Connection reset by peer 11-10 15:23:10
+[Notice] 198.11.173.18:808 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:23:10
+[Notice] 198.11.173.18:808 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:23:10
+[Notice] 198.11.173.18:808 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:23:10
+[Notice] 202.122.236.225:8080 Failed, timed out 11-10 15:23:33
+[Notice] 202.122.236.225:8080 Failed, timed out 11-10 15:24:00
+[Notice] 202.122.236.225:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:24:03
+[Notice] 198.100.144.173:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:24:06
+[Notice] 198.100.144.173:3128 Passed [Target 1] 11-10 15:24:15
+[Notice] 198.100.144.173:3128 Passed [Target 2] 11-10 15:24:18
+[Notice] 200.255.122.170:8080 Failed, timed out 11-10 15:24:29
+[Notice] 200.255.122.170:8080 Failed, timed out 11-10 15:24:39
+[Notice] 200.255.122.170:8080 Failed, timed out 11-10 15:24:49
+[Notice] 183.111.169.208:3128 Passed [Target 0] 11-10 15:24:50
+[Notice] 183.111.169.208:3128 Passed [Target 1] 11-10 15:24:50
+[Notice] 183.111.169.208:3128 Passed [Target 2] 11-10 15:24:51
+[Notice] 61.38.252.13:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:24:51
+[Notice] 61.38.252.13:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:24:54
+[Notice] 61.38.252.13:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:24:54
+[Notice] 92.222.237.26:8898 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:24:57
+[Notice] 92.222.237.26:8898 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:25:00
+[Notice] 92.222.237.26:8898 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:25:03
+[Notice] 121.120.80.215:3128 Passed [Target 0] 11-10 15:25:11
+[Notice] 121.120.80.215:3128 Passed [Target 1] 11-10 15:25:18
+[Notice] 121.120.80.215:3128 Passed [Target 2] 11-10 15:25:24
+[Notice] 58.120.96.236:3128 Passed [Target 0] 11-10 15:25:26
+[Notice] 58.120.96.236:3128 Passed [Target 1] 11-10 15:25:26
+[Notice] 58.120.96.236:3128 Passed [Target 2] 11-10 15:25:27
+[Notice] 183.89.213.189:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:25:30
+[Notice] 183.89.213.189:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:25:33
+[Notice] 183.89.213.189:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:25:36
+[Notice] 61.38.252.17:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:25:36
+[Notice] 61.38.252.17:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:25:36
+[Notice] 61.38.252.17:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:25:36
+[Notice] 183.89.188.183:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:25:36
+[Notice] 183.89.188.183:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:25:36
+[Notice] 183.89.188.183:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:25:37
+[Notice] 61.38.252.14:3128 Passed [Target 0] 11-10 15:25:38
+[Notice] 61.38.252.14:3128 Passed [Target 1] 11-10 15:25:38
+[Notice] 61.38.252.14:3128 Failed, '' 11-10 15:25:39
+[Notice] 133.242.225.54:80 Failed, timed out 11-10 15:25:56
+[Notice] 133.242.225.54:80 Passed [Target 1] 11-10 15:26:00
+[Notice] 133.242.225.54:80 Passed [Target 2] 11-10 15:26:03
+[Notice] 91.106.42.22:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:26:06
+[Notice] 91.106.42.22:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:26:07
+[Notice] 91.106.42.22:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:26:07
+[Notice] 59.11.82.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:26:10
+[Notice] 59.11.82.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:26:13
+[Notice] 59.11.82.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:26:16
+[Notice] 183.89.98.16:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:26:19
+[Notice] 183.89.98.16:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:26:22
+[Notice] 183.89.98.16:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:26:25
+[Notice] 148.244.209.78:8000 Failed, '' 11-10 15:26:26
+[Notice] 148.244.209.78:8000 Failed, '' 11-10 15:26:26
+[Notice] 148.244.209.78:8000 Failed, '' 11-10 15:26:27
+[Notice] 111.221.93.151:80 Failed, HTTP Error 404: Not Found 11-10 15:26:51
+[Notice] 111.221.93.151:80 Failed, timed out 11-10 15:27:03
+[Notice] 108.165.33.7:3128 Failed, timed out 11-10 15:27:13
+[Notice] 108.165.33.7:3128 Failed, timed out 11-10 15:27:24
+[Notice] 108.165.33.7:3128 Passed [Target 2] 11-10 15:27:25
+[Notice] 183.111.169.205:3128 Passed [Target 0] 11-10 15:27:26
+[Notice] 183.111.169.205:3128 Passed [Target 1] 11-10 15:27:27
+[Notice] 183.111.169.205:3128 Passed [Target 2] 11-10 15:27:28
+[Notice] 171.5.132.121:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:27:31
+[Notice] 171.5.132.121:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:27:34
+[Notice] 171.5.132.121:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:27:37
+[Notice] 178.83.70.104:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:27:40
+[Notice] 178.83.70.104:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:27:43
+[Notice] 178.83.70.104:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:27:46
+[Notice] 80.242.219.50:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:27:46
+[Notice] 80.242.219.50:3128 Failed, timed out 11-10 15:28:09
+[Notice] 80.242.219.50:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:28:09
+[Notice] 200.81.185.54:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:12
+[Notice] 200.81.185.54:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:15
+[Notice] 200.81.185.54:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:18
+[Notice] 49.48.152.171:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:21
+[Notice] 49.48.152.171:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:24
+[Notice] 49.48.152.171:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:27
+[Notice] 61.38.252.15:3128 Failed, '' 11-10 15:28:27
+[Notice] 61.38.252.15:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:28:27
+[Notice] 61.38.252.15:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:28:27
+[Notice] 183.111.169.209:3128 Passed [Target 0] 11-10 15:28:35
+[Notice] 183.111.169.209:3128 Passed [Target 1] 11-10 15:28:36
+[Notice] 183.111.169.209:3128 Failed, timed out 11-10 15:28:46
+[Notice] 171.5.56.26:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:49
+[Notice] 171.5.56.26:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:52
+[Notice] 171.5.56.26:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:28:55
+[Notice] 201.54.5.115:8080 Failed, HTTP Error 500: Internal Server Error 11-10 15:28:57
+[Notice] 201.54.5.115:8080 Failed, HTTP Error 500: Internal Server Error 11-10 15:28:59
+[Notice] 201.54.5.115:8080 Failed, HTTP Error 500: Internal Server Error 11-10 15:29:00
+[Notice] 183.89.85.17:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:29:03
+[Notice] 183.89.85.17:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:29:06
+[Notice] 183.89.85.17:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:29:09
+[Notice] 180.183.152.65:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:29:09
+[Notice] 180.183.152.65:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:29:09
+[Notice] 180.183.152.65:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:29:09
+[Notice] 177.97.33.47:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:29:12
+[Notice] 177.97.33.47:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:29:15
+[Notice] 177.97.33.47:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:29:18
+[Notice] 54.251.98.255:80 Failed, timed out 11-10 15:29:33
+[Notice] 54.251.98.255:80 Passed [Target 1] 11-10 15:29:41
+[Notice] 54.251.98.255:80 Failed, timed out 11-10 15:29:51
+[Notice] 189.58.46.114:80 Failed, timed out 11-10 15:30:03
+[Notice] 189.58.46.114:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:06
+[Notice] 189.58.46.114:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:09
+[Notice] 212.204.166.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:12
+[Notice] 212.204.166.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:15
+[Notice] 212.204.166.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:18
+[Notice] 14.207.9.156:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:21
+[Notice] 14.207.9.156:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:24
+[Notice] 14.207.9.156:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:27
+[Notice] 177.207.73.42:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:30
+[Notice] 177.207.73.42:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:33
+[Notice] 177.207.73.42:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:36
+[Notice] 113.30.102.96:3128 Passed [Target 0] 11-10 15:30:38
+[Notice] 113.30.102.96:3128 Passed [Target 1] 11-10 15:30:39
+[Notice] 113.30.102.96:3128 Passed [Target 2] 11-10 15:30:40
+[Notice] 189.59.127.85:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:43
+[Notice] 189.59.127.85:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:46
+[Notice] 189.59.127.85:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:30:49
+[Notice] 183.111.169.204:3128 Passed [Target 0] 11-10 15:30:49
+[Notice] 183.111.169.204:3128 Passed [Target 1] 11-10 15:30:50
+[Notice] 183.111.169.204:3128 Passed [Target 2] 11-10 15:30:51
+[Notice] 69.63.136.63:80 Failed, timed out 11-10 15:31:01
+[Notice] 69.63.136.63:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:04
+[Notice] 69.63.136.63:80 Passed [Target 2] 11-10 15:31:07
+[Notice] 183.111.169.147:80 Passed [Target 0] 11-10 15:31:12
+[Notice] 183.111.169.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:15
+[Notice] 183.111.169.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:18
+[Notice] 14.207.6.108:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:21
+[Notice] 14.207.6.108:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:24
+[Notice] 14.207.6.108:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:27
+[Notice] 58.120.96.235:3128 Passed [Target 0] 11-10 15:31:28
+[Notice] 58.120.96.235:3128 Passed [Target 1] 11-10 15:31:28
+[Notice] 58.120.96.235:3128 Failed, timed out 11-10 15:31:38
+[Notice] 180.183.161.6:9088 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:41
+[Notice] 180.183.161.6:9088 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:44
+[Notice] 180.183.161.6:9088 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:31:47
+[Notice] 75.126.26.180:80 Failed, timed out 11-10 15:31:59
+[Notice] 75.126.26.180:80 Failed, timed out 11-10 15:32:09
+[Notice] 75.126.26.180:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:32:12
+[Notice] 81.29.242.60:80 Failed, timed out 11-10 15:32:23
+[Notice] 81.29.242.60:80 Failed, timed out 11-10 15:32:39
+[Notice] 81.29.242.60:80 Failed, timed out 11-10 15:32:57
+[Notice] 183.89.153.139:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:00
+[Notice] 183.89.153.139:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:03
+[Notice] 183.89.153.139:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:06
+[Notice] 58.11.70.95:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:07
+[Notice] 58.11.70.95:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:07
+[Notice] 58.11.70.95:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:08
+[Notice] 183.88.129.149:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:11
+[Notice] 183.88.129.149:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:14
+[Notice] 183.88.129.149:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:17
+[Notice] 153.120.8.207:80 Failed, timed out 11-10 15:33:35
+[Notice] 153.120.8.207:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:38
+[Notice] 153.120.8.207:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:41
+[Notice] 177.234.12.202:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:41
+[Notice] 177.234.12.202:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:42
+[Notice] 177.234.12.202:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:42
+[Notice] 23.95.15.203:46510 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:45
+[Notice] 23.95.15.203:46510 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:48
+[Notice] 23.95.15.203:46510 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:33:51
+[Notice] 50.56.218.67:3129 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:51
+[Notice] 50.56.218.67:3129 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:51
+[Notice] 50.56.218.67:3129 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:33:52
+[Notice] 121.88.249.30:3128 Passed [Target 0] 11-10 15:33:54
+[Notice] 121.88.249.30:3128 Failed, timed out 11-10 15:34:04
+[Notice] 121.88.249.30:3128 Passed [Target 2] 11-10 15:34:06
+[Notice] 151.80.85.232:80 Passed [Target 0] 11-10 15:34:11
+[Notice] 151.80.85.232:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:14
+[Notice] 151.80.85.232:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:17
+[Notice] 180.183.10.174:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:20
+[Notice] 180.183.10.174:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:23
+[Notice] 180.183.10.174:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:26
+[Notice] 189.10.216.22:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:29
+[Notice] 189.10.216.22:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:32
+[Notice] 189.10.216.22:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:35
+[Notice] 92.110.173.139:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:38
+[Notice] 92.110.173.139:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:41
+[Notice] 92.110.173.139:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:44
+[Notice] 183.89.90.152:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:47
+[Notice] 183.89.90.152:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:50
+[Notice] 183.89.90.152:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:53
+[Notice] 50.56.218.144:3129 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:56
+[Notice] 50.56.218.144:3129 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:34:59
+[Notice] 50.56.218.144:3129 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:35:02
+[Notice] 58.120.96.233:3128 Failed, timed out 11-10 15:35:12
+[Notice] 58.120.96.233:3128 Passed [Target 1] 11-10 15:35:13
+[Notice] 58.120.96.233:3128 Passed [Target 2] 11-10 15:35:13
+[Notice] 183.89.75.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:35:16
+[Notice] 183.89.75.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:35:19
+[Notice] 183.89.75.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:35:22
+[Notice] 183.89.78.58:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:35:23
+[Notice] 183.89.78.58:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:35:23
+[Notice] 183.89.78.58:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:35:23
+[Notice] 177.201.67.82:80 Failed, timed out 11-10 15:35:35
+[Notice] 177.201.67.82:80 Failed, timed out 11-10 15:35:47
+[Notice] 177.201.67.82:80 Failed, timed out 11-10 15:36:00
+[Notice] 218.145.29.101:80 Passed [Target 0] 11-10 15:36:07
+[Notice] 218.145.29.101:80 Passed [Target 1] 11-10 15:36:12
+[Notice] 218.145.29.101:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:15
+[Notice] 123.236.251.30:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:18
+[Notice] 123.236.251.30:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:21
+[Notice] 123.236.251.30:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:24
+[Notice] 122.15.65.133:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:27
+[Notice] 122.15.65.133:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:30
+[Notice] 122.15.65.133:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:33
+[Notice] 107.155.116.199:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:36
+[Notice] 107.155.116.199:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:39
+[Notice] 107.155.116.199:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:36:42
+[Notice] 52.19.182.86:80 Failed, timed out 11-10 15:36:52
+[Notice] 52.19.182.86:80 Passed [Target 1] 11-10 15:36:55
+[Notice] 52.19.182.86:80 Passed [Target 2] 11-10 15:36:59
+[Notice] 133.242.170.132:80 Failed, timed out 11-10 15:37:09
+[Notice] 133.242.170.132:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:12
+[Notice] 133.242.170.132:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:15
+[Notice] 213.93.68.223:80 Passed [Target 0] 11-10 15:37:20
+[Notice] 213.93.68.223:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:23
+[Notice] 213.93.68.223:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:26
+[Notice] 171.5.138.134:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:29
+[Notice] 171.5.138.134:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:32
+[Notice] 171.5.138.134:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:35
+[Notice] 183.88.101.243:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:38
+[Notice] 183.88.101.243:8080 Failed, timed out 11-10 15:37:48
+[Notice] 183.88.101.243:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:37:51
+[Notice] 124.6.135.170:3128 Failed, timed out 11-10 15:38:02
+[Notice] 124.6.135.170:3128 Passed [Target 1] 11-10 15:38:08
+[Notice] 124.6.135.170:3128 Passed [Target 2] 11-10 15:38:12
+[Notice] 200.49.242.3:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:38:15
+[Notice] 200.49.242.3:8080 Failed, timed out 11-10 15:38:25
+[Notice] 200.49.242.3:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:38:28
+[Notice] 121.138.223.172:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:38:31
+[Notice] 121.138.223.172:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:38:34
+[Notice] 121.138.223.172:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:38:37
+[Notice] 113.30.102.91:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:38:40
+[Notice] 113.30.102.91:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:38:43
+[Notice] 113.30.102.91:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:38:43
+[Notice] 37.187.151.78:80 Passed [Target 0] 11-10 15:38:51
+[Notice] 37.187.151.78:80 Passed [Target 1] 11-10 15:39:00
+[Notice] 37.187.151.78:80 Passed [Target 2] 11-10 15:39:06
+[Notice] 89.249.207.65:3128 Failed, timed out 11-10 15:39:18
+[Notice] 89.249.207.65:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:21
+[Notice] 89.249.207.65:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:24
+[Notice] 114.109.81.121:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:27
+[Notice] 114.109.81.121:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:30
+[Notice] 114.109.81.121:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:33
+[Notice] 183.88.4.249:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:36
+[Notice] 183.88.4.249:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:39
+[Notice] 183.88.4.249:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:42
+[Notice] 183.89.81.182:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:45
+[Notice] 183.89.81.182:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:48
+[Notice] 183.89.81.182:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:39:51
+[Notice] 1.235.185.57:80 Failed, timed out 11-10 15:40:01
+[Notice] 1.235.185.57:80 Passed [Target 1] 11-10 15:40:01
+[Notice] 1.235.185.57:80 Passed [Target 2] 11-10 15:40:02
+[Notice] 201.234.75.234:80 Failed, timed out 11-10 15:40:13
+[Notice] 201.234.75.234:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:40:16
+[Notice] 201.234.75.234:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:40:19
+[Notice] 202.29.97.2:3128 Passed [Target 0] 11-10 15:40:22
+[Notice] 202.29.97.2:3128 Passed [Target 1] 11-10 15:40:25
+[Notice] 202.29.97.2:3128 Passed [Target 2] 11-10 15:40:26
+[Notice] 61.19.71.182:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:40:29
+[Notice] 61.19.71.182:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:40:32
+[Notice] 61.19.71.182:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:40:35
+[Notice] 205.189.170.150:80 Passed [Target 0] 11-10 15:40:44
+[Notice] 205.189.170.150:80 Passed [Target 1] 11-10 15:40:48
+[Notice] 205.189.170.150:80 Passed [Target 2] 11-10 15:40:56
+[Notice] 198.169.246.30:80 Failed, HTTP Error 504: Gateway Timeout 11-10 15:41:03
+[Notice] 198.169.246.30:80 Passed [Target 1] 11-10 15:41:06
+[Notice] 198.169.246.30:80 Passed [Target 2] 11-10 15:41:09
+[Notice] 37.49.191.105:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:41:12
+[Notice] 37.49.191.105:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:41:15
+[Notice] 37.49.191.105:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:41:18
+[Notice] 211.110.142.28:80 Passed [Target 0] 11-10 15:41:24
+[Notice] 211.110.142.28:80 Passed [Target 1] 11-10 15:41:27
+[Notice] 211.110.142.28:80 Failed, timed out 11-10 15:41:38
+[Notice] 197.159.142.97:8080 Failed, timed out 11-10 15:41:50
+[Notice] 197.159.142.97:8080 Failed, timed out 11-10 15:42:04
+[Notice] 197.159.142.97:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:42:07
+[Notice] 171.33.222.11:8080 Failed, timed out 11-10 15:42:17
+[Notice] 171.33.222.11:8080 Passed [Target 1] 11-10 15:42:19
+[Notice] 171.33.222.11:8080 Passed [Target 2] 11-10 15:42:20
+[Notice] 213.57.89.97:18000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:42:23
+[Notice] 213.57.89.97:18000 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:42:26
+[Notice] 213.57.89.97:18000 Failed, timed out 11-10 15:42:38
+[Notice] 173.220.170.242:7004 Passed [Target 0] 11-10 15:42:43
+[Notice] 173.220.170.242:7004 Failed, HTTP Error 500: Internal Server Error 11-10 15:42:45
+[Notice] 173.220.170.242:7004 Passed [Target 2] 11-10 15:42:46
+[Notice] 62.180.27.25:80 Passed [Target 0] 11-10 15:42:56
+[Notice] 62.180.27.25:80 Passed [Target 2] 11-10 15:43:13
+[Notice] 125.24.106.128:8080 Passed [Target 0] 11-10 15:43:20
+[Notice] 125.24.106.128:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:43:23
+[Notice] 125.24.106.128:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:43:26
+[Notice] 110.77.148.89:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:43:29
+[Notice] 110.77.148.89:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:43:32
+[Notice] 110.77.148.89:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:43:35
+[Notice] 91.242.209.144:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:43:36
+[Notice] 91.242.209.144:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:43:36
+[Notice] 91.242.209.144:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:43:37
+[Notice] 193.107.152.66:3128 Failed, timed out 11-10 15:43:52
+[Notice] 193.107.152.66:3128 Failed, timed out 11-10 15:44:10
+[Notice] 193.107.152.66:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:44:13
+[Notice] 101.128.107.25:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:44:16
+[Notice] 101.128.107.25:8080 Failed, timed out 11-10 15:44:27
+[Notice] 101.128.107.25:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:44:30
+[Notice] 118.175.20.162:8080 Passed [Target 0] 11-10 15:44:39
+[Notice] 118.175.20.162:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:44:42
+[Notice] 118.175.20.162:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:44:45
+[Notice] 177.124.175.222:3130 Failed, [Errno 104] Connection reset by peer 11-10 15:44:56
+[Notice] 177.124.175.222:3130 Failed, timed out 11-10 15:45:07
+[Notice] 177.124.175.222:3130 Failed, [Errno 104] Connection reset by peer 11-10 15:45:18
+[Notice] 182.53.231.133:8080 Failed, timed out 11-10 15:45:28
+[Notice] 182.53.231.133:8080 Failed, timed out 11-10 15:45:39
+[Notice] 182.53.231.133:8080 Failed, timed out 11-10 15:45:50
+[Notice] 84.72.142.174:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:45:51
+[Notice] 84.72.142.174:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:45:51
+[Notice] 84.72.142.174:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:45:52
+[Notice] 125.25.193.114:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:45:55
+[Notice] 125.25.193.114:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:45:58
+[Notice] 125.25.193.114:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:46:01
+[Notice] 202.150.143.170:8080 Failed, timed out 11-10 15:46:12
+[Notice] 202.150.143.170:8080 Failed, timed out 11-10 15:46:24
+[Notice] 202.150.143.170:8080 Failed, timed out 11-10 15:46:35
+[Notice] 71.41.27.245:8080 Failed, '' 11-10 15:46:51
+[Notice] 71.41.27.245:8080 Passed [Target 2] 11-10 15:46:56
+[Notice] 41.162.48.14:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:46:59
+[Notice] 41.162.48.14:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:03
+[Notice] 41.162.48.14:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:06
+[Notice] 182.160.114.226:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:09
+[Notice] 182.160.114.226:8080 Failed, timed out 11-10 15:47:19
+[Notice] 182.160.114.226:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:22
+[Notice] 189.85.20.14:8080 Failed, timed out 11-10 15:47:32
+[Notice] 189.85.20.14:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:35
+[Notice] 189.85.20.14:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:38
+[Notice] 182.253.32.45:80 Failed, [Errno 104] Connection reset by peer 11-10 15:47:39
+[Notice] 182.253.32.45:80 Failed, [Errno 104] Connection reset by peer 11-10 15:47:40
+[Notice] 182.253.32.45:80 Failed, [Errno 104] Connection reset by peer 11-10 15:47:41
+[Notice] 36.73.33.236:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:47:41
+[Notice] 36.73.33.236:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:47:41
+[Notice] 36.73.33.236:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:47:41
+[Notice] 180.210.191.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:44
+[Notice] 180.210.191.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:47
+[Notice] 180.210.191.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:50
+[Notice] 182.253.168.34:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:53
+[Notice] 182.253.168.34:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:56
+[Notice] 182.253.168.34:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:47:59
+[Notice] 203.153.214.186:80 Failed, timed out 11-10 15:48:09
+[Notice] 203.153.214.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:12
+[Notice] 203.153.214.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:15
+[Notice] 180.178.135.102:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:18
+[Notice] 180.178.135.102:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:21
+[Notice] 180.178.135.102:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:24
+[Notice] 203.128.16.114:8080 Failed, timed out 11-10 15:48:36
+[Notice] 203.128.16.114:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:39
+[Notice] 203.128.16.114:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:42
+[Notice] 80.89.2.218:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:48:45
+[Notice] 80.89.2.218:8080 Failed, timed out 11-10 15:48:56
+[Notice] 80.89.2.218:8080 Failed, [Errno 104] Connection reset by peer 11-10 15:49:06
+[Notice] 179.185.49.190:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:49:09
+[Notice] 179.185.49.190:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:49:12
+[Notice] 179.185.49.190:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:49:15
+[Notice] 103.233.119.41:8080 Failed, timed out 11-10 15:49:25
+[Notice] 103.233.119.41:8080 Failed, timed out 11-10 15:49:37
+[Notice] 103.233.119.41:8080 Failed, timed out 11-10 15:49:48
+[Notice] 182.53.19.77:8080 Failed, timed out 11-10 15:49:59
+[Notice] 182.53.19.77:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:02
+[Notice] 111.67.102.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:16
+[Notice] 111.67.102.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:19
+[Notice] 111.67.102.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:22
+[Notice] 118.107.43.45:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:25
+[Notice] 118.107.43.45:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:28
+[Notice] 118.107.43.45:8080 Failed, timed out 11-10 15:50:38
+[Notice] 104.236.63.140:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:50:38
+[Notice] 104.236.63.140:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:50:39
+[Notice] 104.236.63.140:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:50:39
+[Notice] 1.179.183.109:8080 Failed, timed out 11-10 15:50:50
+[Notice] 1.179.183.109:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:53
+[Notice] 1.179.183.109:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:50:56
+[Notice] 177.84.72.34:3128 Failed, timed out 11-10 15:51:06
+[Notice] 177.84.72.34:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:51:09
+[Notice] 177.84.72.34:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:51:12
+[Notice] 101.51.215.14:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:51:13
+[Notice] 101.51.215.14:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:51:13
+[Notice] 101.51.215.14:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:51:13
+[Notice] 118.174.63.77:8080 Failed, timed out 11-10 15:51:27
+[Notice] 118.174.63.77:8080 Failed, timed out 11-10 15:51:46
+[Notice] 118.174.63.77:8080 Failed, timed out 11-10 15:52:01
+[Notice] 201.20.88.5:3128 Failed, timed out 11-10 15:52:12
+[Notice] 201.20.88.5:3128 Failed, timed out 11-10 15:52:22
+[Notice] 201.20.88.5:3128 Failed, timed out 11-10 15:52:32
+[Notice] 201.20.88.130:8080 Failed, timed out 11-10 15:52:43
+[Notice] 201.20.88.130:8080 Failed, timed out 11-10 15:52:53
+[Notice] 201.20.88.130:8080 Failed, timed out 11-10 15:53:03
+[Notice] 91.121.153.214:3128 Failed, timed out 11-10 15:53:14
+[Notice] 91.121.153.214:3128 Passed [Target 1] 11-10 15:53:18
+[Notice] 91.121.153.214:3128 Passed [Target 2] 11-10 15:53:23
+[Notice] 61.40.220.41:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:53:23
+[Notice] 61.40.220.41:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:53:23
+[Notice] 61.40.220.41:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:53:23
+[Notice] 177.135.180.180:3128 Failed, timed out 11-10 15:53:33
+[Notice] 177.135.180.180:3128 Passed [Target 2] 11-10 15:53:50
+[Notice] 202.173.210.24:8080 Failed, timed out 11-10 15:54:01
+[Notice] 202.173.210.24:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:04
+[Notice] 202.173.210.24:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:07
+[Notice] 122.154.33.201:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:10
+[Notice] 122.154.33.201:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:13
+[Notice] 122.154.33.201:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:16
+[Notice] 49.228.204.36:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:19
+[Notice] 49.228.204.36:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:22
+[Notice] 49.228.204.36:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:25
+[Notice] 101.51.18.19:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:54:28
+[Notice] 101.51.18.19:8080 Passed [Target 1] 11-10 15:54:38
+[Notice] 101.51.18.19:8080 Failed, timed out 11-10 15:54:49
+[Notice] 180.148.211.146:8080 Failed, [Errno 104] Connection reset by peer 11-10 15:54:59
+[Notice] 180.148.211.146:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:02
+[Notice] 180.148.211.146:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:05
+[Notice] 101.128.100.36:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:08
+[Notice] 101.128.100.36:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:11
+[Notice] 101.128.100.36:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:14
+[Notice] 180.180.226.235:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:17
+[Notice] 180.180.226.235:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:20
+[Notice] 180.180.226.235:8080 Failed, timed out 11-10 15:55:31
+[Notice] 182.253.201.11:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:34
+[Notice] 182.253.201.11:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:37
+[Notice] 182.253.201.11:8080 Failed, timed out 11-10 15:55:48
+[Notice] 110.232.83.38:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:51
+[Notice] 110.232.83.38:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:54
+[Notice] 110.232.83.38:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:55:57
+[Notice] 202.162.192.92:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:00
+[Notice] 202.162.192.92:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:03
+[Notice] 202.162.192.92:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:06
+[Notice] 103.53.157.12:8080 Failed, timed out 11-10 15:56:17
+[Notice] 103.53.157.12:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:20
+[Notice] 103.53.157.12:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:23
+[Notice] 37.187.152.193:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:26
+[Notice] 37.187.152.193:3128 Failed, timed out 11-10 15:56:36
+[Notice] 37.187.152.193:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:39
+[Notice] 176.106.44.88:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:42
+[Notice] 176.106.44.88:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:45
+[Notice] 176.106.44.88:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:56:48
+[Notice] 93.183.155.39:8080 Passed [Target 0] 11-10 15:56:56
+[Notice] 93.183.155.39:8080 Passed [Target 1] 11-10 15:57:05
+[Notice] 93.183.155.39:8080 Passed [Target 2] 11-10 15:57:10
+[Notice] 189.94.220.239:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:57:13
+[Notice] 189.94.220.239:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:57:16
+[Notice] 189.94.220.239:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:57:19
+[Notice] 121.119.185.45:3128 Passed [Target 0] 11-10 15:57:26
+[Notice] 121.119.185.45:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:57:29
+[Notice] 121.119.185.45:3128 Failed, timed out 11-10 15:57:41
+[Notice] 110.78.138.139:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:57:41
+[Notice] 110.78.138.139:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:57:41
+[Notice] 110.78.138.139:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:57:41
+[Notice] 117.102.100.11:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:57:44
+[Notice] 117.102.100.11:8080 Failed, timed out 11-10 15:57:55
+[Notice] 117.102.100.11:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:57:58
+[Notice] 115.127.68.68:8080 Failed, timed out 11-10 15:58:10
+[Notice] 115.127.68.68:8080 Failed, timed out 11-10 15:58:20
+[Notice] 115.127.68.68:8080 Failed, timed out 11-10 15:58:31
+[Notice] 187.73.14.163:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:58:31
+[Notice] 187.73.14.163:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:58:31
+[Notice] 187.73.14.163:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:58:33
+[Notice] 182.253.178.37:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:36
+[Notice] 182.253.178.37:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:39
+[Notice] 182.253.178.37:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:42
+[Notice] 182.253.178.46:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:45
+[Notice] 182.253.178.46:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:48
+[Notice] 182.253.178.46:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:51
+[Notice] 1.179.183.85:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:54
+[Notice] 1.179.183.85:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:58:57
+[Notice] 1.179.183.85:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:59:00
+[Notice] 31.22.7.199:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:59:00
+[Notice] 31.22.7.199:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:59:01
+[Notice] 31.22.7.199:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-10 15:59:01
+[Notice] 212.69.18.108:8080 Failed, timed out 11-10 15:59:12
+[Notice] 212.69.18.108:8080 Failed, timed out 11-10 15:59:24
+[Notice] 212.69.18.108:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:59:27
+[Notice] 210.187.232.145:8080 Failed, timed out 11-10 15:59:37
+[Notice] 210.187.232.145:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:59:40
+[Notice] 210.187.232.145:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:59:43
+[Notice] 210.1.81.46:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:59:46
+[Notice] 210.1.81.46:8080 Passed [Target 1] 11-10 15:59:49
+[Notice] 210.1.81.46:8080 Passed [Target 2] 11-10 15:59:51
+[Notice] 46.219.57.136:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:59:54
+[Notice] 46.219.57.136:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 15:59:57
+[Notice] 46.219.57.136:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:00
+[Notice] 177.223.35.53:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:03
+[Notice] 177.223.35.53:8080 Failed, timed out 11-10 16:00:14
+[Notice] 177.223.35.53:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:17
+[Notice] 14.139.85.68:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:20
+[Notice] 14.139.85.68:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:23
+[Notice] 14.139.85.68:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:26
+[Notice] 124.81.50.170:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:29
+[Notice] 124.81.50.170:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:32
+[Notice] 124.81.50.170:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:35
+[Notice] 190.90.193.120:8080 Passed [Target 0] 11-10 16:00:41
+[Notice] 190.90.193.120:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:00:44
+[Notice] 49.228.201.155:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:04
+[Notice] 49.228.201.155:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:07
+[Notice] 49.228.201.155:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:10
+[Notice] 138.0.89.75:8080 Failed, timed out 11-10 16:01:21
+[Notice] 138.0.89.75:8080 Failed, timed out 11-10 16:01:33
+[Notice] 138.0.89.75:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:36
+[Notice] 186.250.96.1:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:39
+[Notice] 186.250.96.1:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:42
+[Notice] 186.250.96.1:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:45
+[Notice] 200.76.44.158:8080 Failed, timed out 11-10 16:01:55
+[Notice] 200.76.44.158:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:01:58
+[Notice] 200.76.44.158:8080 Passed [Target 2] 11-10 16:02:06
+[Notice] 104.196.24.116:80 Passed [Target 0] 11-10 16:02:14
+[Notice] 104.196.24.116:80 Passed [Target 1] 11-10 16:02:17
+[Notice] 104.196.24.116:80 Passed [Target 2] 11-10 16:02:19
+[Notice] 185.6.55.52:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:02:22
+[Notice] 185.6.55.52:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:02:25
+[Notice] 185.6.55.52:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:02:28
+[Notice] 64.6.108.39:4444 Failed, [Errno 104] Connection reset by peer 11-10 16:02:28
+[Notice] 64.6.108.39:4444 Failed, [Errno 104] Connection reset by peer 11-10 16:02:29
+[Notice] 64.6.108.39:4444 Failed, [Errno 104] Connection reset by peer 11-10 16:02:29
+[Notice] 110.77.221.58:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:02:32
+[Notice] 110.77.221.58:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:02:35
+[Notice] 110.77.221.58:8080 Failed, timed out 11-10 16:02:45
+[Notice] 177.69.143.225:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:02:48
+[Notice] 177.69.143.225:8080 Failed, timed out 11-10 16:02:58
+[Notice] 177.69.143.225:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:01
+[Notice] 201.9.64.200:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:04
+[Notice] 201.9.64.200:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:07
+[Notice] 201.9.64.200:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:10
+[Notice] 191.33.76.59:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:13
+[Notice] 191.33.76.59:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:16
+[Notice] 191.33.76.59:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:19
+[Notice] 178.254.161.22:6666 Passed [Target 1] 11-10 16:03:37
+[Notice] 178.254.161.22:6666 Passed [Target 2] 11-10 16:03:41
+[Notice] 202.162.42.242:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:44
+[Notice] 202.162.42.242:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:47
+[Notice] 202.162.42.242:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:50
+[Notice] 41.215.182.5:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:53
+[Notice] 41.215.182.5:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:56
+[Notice] 41.215.182.5:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:03:59
+[Notice] 182.53.231.150:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:04:00
+[Notice] 182.53.231.150:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:04:00
+[Notice] 182.53.231.150:8080 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:04:00
+[Notice] 110.77.211.133:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:04:03
+[Notice] 110.77.211.133:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:04:06
+[Notice] 110.77.211.133:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:04:09
+[Notice] 212.1.84.245:8080 Failed, timed out 11-10 16:04:20
+[Notice] 212.1.84.245:8080 Passed [Target 1] 11-10 16:04:29
+[Notice] 212.1.84.245:8080 Failed, '' 11-10 16:04:37
+[Notice] 71.19.173.2:80 Failed, '' 11-10 16:04:42
+[Notice] 71.19.173.2:80 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:04:42
+[Notice] 71.19.173.2:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:04:45
+[Notice] 115.218.126.31:9000 Failed, [Errno 104] Connection reset by peer 11-10 16:04:45
+[Notice] 115.218.126.31:9000 Failed, [Errno 104] Connection reset by peer 11-10 16:04:45
+[Notice] 115.218.126.31:9000 Failed, [Errno 104] Connection reset by peer 11-10 16:04:45
+[Notice] 222.88.236.236:843 Passed [Target 0] 11-10 16:04:45
+[Notice] 222.88.236.236:843 Failed, timed out 11-10 16:04:56
+[Notice] 222.88.236.236:843 Passed [Target 2] 11-10 16:04:56
+[Notice] 223.85.75.42:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:04:59
+[Notice] 223.85.75.42:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:02
+[Notice] 223.85.75.42:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:05
+[Notice] 120.195.206.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:08
+[Notice] 120.195.206.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:11
+[Notice] 120.195.206.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:14
+[Notice] 120.195.198.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:17
+[Notice] 120.195.198.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:20
+[Notice] 120.195.198.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:23
+[Notice] 120.195.198.170:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:26
+[Notice] 120.195.198.170:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:29
+[Notice] 120.195.198.170:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:32
+[Notice] 120.195.202.162:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:35
+[Notice] 120.195.202.162:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:38
+[Notice] 120.195.202.162:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:41
+[Notice] 182.254.153.54:8080 Passed [Target 0] 11-10 16:05:41
+[Notice] 182.254.153.54:8080 Passed [Target 1] 11-10 16:05:42
+[Notice] 182.254.153.54:8080 Passed [Target 2] 11-10 16:05:42
+[Notice] 120.195.192.139:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:45
+[Notice] 120.195.192.139:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:48
+[Notice] 120.195.192.139:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:51
+[Notice] 120.195.194.14:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:54
+[Notice] 120.195.194.14:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:05:57
+[Notice] 120.195.194.14:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:00
+[Notice] 120.195.195.202:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:03
+[Notice] 120.195.195.202:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:06
+[Notice] 120.195.195.202:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:09
+[Notice] 120.195.194.129:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:12
+[Notice] 120.195.194.129:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:15
+[Notice] 120.195.194.129:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:18
+[Notice] 120.195.197.242:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:21
+[Notice] 120.195.197.242:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:24
+[Notice] 120.195.197.242:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:27
+[Notice] 120.195.202.174:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:30
+[Notice] 120.195.202.174:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:33
+[Notice] 120.195.202.174:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:36
+[Notice] 218.57.200.15:8080 Passed [Target 0] 11-10 16:06:37
+[Notice] 218.57.200.15:8080 Passed [Target 1] 11-10 16:06:38
+[Notice] 218.57.200.15:8080 Passed [Target 2] 11-10 16:06:38
+[Notice] 120.195.195.106:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:41
+[Notice] 120.195.195.106:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:44
+[Notice] 120.195.195.106:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:47
+[Notice] 120.195.196.48:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:50
+[Notice] 120.195.196.48:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:53
+[Notice] 120.195.196.48:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:56
+[Notice] 183.217.50.131:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:06:59
+[Notice] 183.217.50.131:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:02
+[Notice] 183.217.50.131:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:05
+[Notice] 115.238.225.26:80 Passed [Target 0] 11-10 16:07:05
+[Notice] 115.238.225.26:80 Passed [Target 1] 11-10 16:07:05
+[Notice] 115.238.225.26:80 Passed [Target 2] 11-10 16:07:06
+[Notice] 120.195.205.227:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:09
+[Notice] 120.195.205.227:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:12
+[Notice] 120.195.205.227:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:15
+[Notice] 120.195.202.241:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:18
+[Notice] 120.195.202.241:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:21
+[Notice] 120.195.202.241:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:24
+[Notice] 120.195.192.254:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:27
+[Notice] 120.195.192.254:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:30
+[Notice] 120.195.192.254:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:33
+[Notice] 120.195.193.249:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:36
+[Notice] 120.195.193.249:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:39
+[Notice] 120.195.193.249:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:42
+[Notice] 120.195.193.201:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:45
+[Notice] 120.195.193.201:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:48
+[Notice] 120.195.193.201:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:07:51
+[Notice] 111.123.17.185:3128 Failed, timed out 11-10 16:08:12
+[Notice] 111.123.17.185:3128 Failed, timed out 11-10 16:08:30
+[Notice] 111.123.17.185:3128 Failed, timed out 11-10 16:09:03
+[Notice] 120.195.196.204:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:06
+[Notice] 120.195.196.204:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:09
+[Notice] 120.195.196.204:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:12
+[Notice] 183.218.148.249:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:15
+[Notice] 183.218.148.249:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:18
+[Notice] 183.218.148.249:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:21
+[Notice] 120.195.200.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:24
+[Notice] 120.195.200.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:27
+[Notice] 120.195.200.105:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:30
+[Notice] 115.193.188.83:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:33
+[Notice] 115.193.188.83:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:36
+[Notice] 115.193.188.83:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:39
+[Notice] 120.195.192.138:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:42
+[Notice] 120.195.192.138:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:45
+[Notice] 120.195.192.138:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:48
+[Notice] 120.195.198.90:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:51
+[Notice] 120.195.198.90:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:54
+[Notice] 120.195.198.90:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:09:57
+[Notice] 221.178.181.196:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:00
+[Notice] 221.178.181.196:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:03
+[Notice] 221.178.181.196:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:06
+[Notice] 120.195.197.99:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:09
+[Notice] 120.195.197.99:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:12
+[Notice] 120.195.197.99:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:15
+[Notice] 120.195.200.129:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:18
+[Notice] 120.195.200.129:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:21
+[Notice] 120.195.200.129:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:24
+[Notice] 120.195.192.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:27
+[Notice] 120.195.192.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:30
+[Notice] 120.195.192.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:33
+[Notice] 120.195.201.20:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:36
+[Notice] 120.195.201.20:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:39
+[Notice] 120.195.201.20:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:42
+[Notice] 120.195.207.253:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:45
+[Notice] 120.195.207.253:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:48
+[Notice] 120.195.207.253:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:51
+[Notice] 111.12.117.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:54
+[Notice] 111.12.117.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:10:57
+[Notice] 111.12.117.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:00
+[Notice] 120.195.195.194:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:03
+[Notice] 120.195.195.194:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:06
+[Notice] 120.195.195.194:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:09
+[Notice] 120.195.194.34:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:12
+[Notice] 120.195.194.34:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:15
+[Notice] 120.195.194.34:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:18
+[Notice] 14.221.137.209:3128 Passed [Target 0] 11-10 16:11:20
+[Notice] 14.221.137.209:3128 Passed [Target 1] 11-10 16:11:24
+[Notice] 14.221.137.209:3128 Failed, timed out 11-10 16:11:43
+[Notice] 120.195.194.16:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:46
+[Notice] 120.195.194.16:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:49
+[Notice] 120.195.194.16:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:52
+[Notice] 120.195.192.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:55
+[Notice] 120.195.192.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:11:58
+[Notice] 120.195.192.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:01
+[Notice] 120.195.207.91:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:04
+[Notice] 120.195.207.91:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:07
+[Notice] 120.195.207.91:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:10
+[Notice] 120.195.192.169:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:13
+[Notice] 120.195.192.169:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:16
+[Notice] 120.195.192.169:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:19
+[Notice] 120.195.198.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:22
+[Notice] 120.195.198.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:25
+[Notice] 120.195.198.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:28
+[Notice] 120.195.196.160:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:31
+[Notice] 120.195.196.160:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:34
+[Notice] 120.195.196.160:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:37
+[Notice] 180.109.139.36:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:40
+[Notice] 180.109.139.36:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:43
+[Notice] 180.109.139.36:8090 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:46
+[Notice] 123.125.8.253:1209 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:49
+[Notice] 123.125.8.253:1209 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:52
+[Notice] 123.125.8.253:1209 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:55
+[Notice] 120.195.196.77:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:12:58
+[Notice] 120.195.196.77:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:01
+[Notice] 120.195.196.77:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:04
+[Notice] 120.195.200.153:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:07
+[Notice] 120.195.200.153:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:10
+[Notice] 120.195.200.153:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:13
+[Notice] 122.227.176.218:3128 Passed [Target 0] 11-10 16:13:15
+[Notice] 122.227.176.218:3128 Passed [Target 1] 11-10 16:13:17
+[Notice] 122.227.176.218:3128 Passed [Target 2] 11-10 16:13:19
+[Notice] 120.195.202.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:22
+[Notice] 120.195.202.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:25
+[Notice] 120.195.202.17:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:28
+[Notice] 120.195.206.202:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:31
+[Notice] 120.195.206.202:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:34
+[Notice] 120.195.206.202:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:13:37
+[Notice] 115.46.114.138:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:13:37
+[Notice] 115.46.114.138:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:13:37
+[Notice] 115.46.114.138:8123 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:13:37
+[Notice] 210.28.164.1:3128 Passed [Target 0] 11-10 16:13:46
+[Notice] 210.28.164.1:3128 Failed, timed out 11-10 16:13:58
+[Notice] 210.28.164.1:3128 Passed [Target 2] 11-10 16:14:02
+[Notice] 120.195.205.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:05
+[Notice] 120.195.205.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:08
+[Notice] 120.195.205.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:11
+[Notice] 120.198.236.10:80 Passed [Target 0] 11-10 16:14:12
+[Notice] 120.198.236.10:80 Passed [Target 1] 11-10 16:14:12
+[Notice] 120.198.236.10:80 Passed [Target 2] 11-10 16:14:13
+[Notice] 120.195.195.150:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:16
+[Notice] 120.195.195.150:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:19
+[Notice] 120.195.195.150:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:22
+[Notice] 221.234.19.11:3128 Passed [Target 0] 11-10 16:14:30
+[Notice] 221.234.19.11:3128 Passed [Target 1] 11-10 16:14:35
+[Notice] 221.234.19.11:3128 Passed [Target 2] 11-10 16:14:38
+[Notice] 120.195.201.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:41
+[Notice] 120.195.201.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:44
+[Notice] 120.195.201.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:47
+[Notice] 120.195.206.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:50
+[Notice] 120.195.206.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:53
+[Notice] 120.195.206.186:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:56
+[Notice] 120.195.199.154:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:14:59
+[Notice] 120.195.199.154:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:02
+[Notice] 120.195.199.154:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:05
+[Notice] 121.8.147.18:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:08
+[Notice] 121.8.147.18:9797 Passed [Target 1] 11-10 16:15:12
+[Notice] 121.8.147.18:9797 Failed, [Errno 104] Connection reset by peer 11-10 16:15:18
+[Notice] 120.195.200.136:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:21
+[Notice] 120.195.200.136:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:24
+[Notice] 120.195.200.136:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:27
+[Notice] 120.195.195.40:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:30
+[Notice] 120.195.195.40:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:33
+[Notice] 120.195.195.40:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:36
+[Notice] 120.195.207.144:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:39
+[Notice] 120.195.207.144:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:42
+[Notice] 120.195.207.144:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:45
+[Notice] 120.195.194.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:48
+[Notice] 120.195.194.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:51
+[Notice] 120.195.194.133:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:54
+[Notice] 221.178.181.124:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:15:57
+[Notice] 221.178.181.124:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:00
+[Notice] 221.178.181.124:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:03
+[Notice] 120.195.201.44:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:06
+[Notice] 120.195.201.44:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:09
+[Notice] 120.195.201.44:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:12
+[Notice] 120.195.199.14:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:15
+[Notice] 120.195.199.14:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:18
+[Notice] 120.195.199.14:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:21
+[Notice] 111.40.196.70:84 Passed [Target 0] 11-10 16:16:21
+[Notice] 111.40.196.70:84 Passed [Target 1] 11-10 16:16:22
+[Notice] 111.40.196.70:84 Passed [Target 2] 11-10 16:16:22
+[Notice] 120.195.201.210:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:25
+[Notice] 120.195.201.210:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:28
+[Notice] 120.195.201.210:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:31
+[Notice] 120.195.203.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:34
+[Notice] 120.195.203.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:37
+[Notice] 120.195.203.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:40
+[Notice] 120.195.192.134:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:43
+[Notice] 120.195.192.134:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:46
+[Notice] 120.195.192.134:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:49
+[Notice] 120.195.193.61:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:52
+[Notice] 120.195.193.61:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:55
+[Notice] 120.195.193.61:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:16:58
+[Notice] 120.195.207.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:01
+[Notice] 120.195.207.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:04
+[Notice] 120.195.207.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:07
+[Notice] 120.195.192.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:10
+[Notice] 120.195.192.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:13
+[Notice] 120.195.192.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:16
+[Notice] 120.195.197.65:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:19
+[Notice] 120.195.197.65:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:22
+[Notice] 120.195.197.65:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:25
+[Notice] 120.195.199.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:28
+[Notice] 120.195.199.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:31
+[Notice] 120.195.199.78:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:34
+[Notice] 120.195.207.156:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:37
+[Notice] 120.195.207.156:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:40
+[Notice] 120.195.207.156:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:43
+[Notice] 112.20.150.108:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:46
+[Notice] 112.20.150.108:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:49
+[Notice] 112.20.150.108:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:52
+[Notice] 120.195.199.204:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:55
+[Notice] 120.195.199.204:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:17:58
+[Notice] 120.195.199.204:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:01
+[Notice] 120.195.195.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:04
+[Notice] 120.195.195.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:07
+[Notice] 120.195.195.252:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:10
+[Notice] 120.195.195.122:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:13
+[Notice] 120.195.195.122:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:16
+[Notice] 120.195.195.122:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:19
+[Notice] 120.195.203.215:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:22
+[Notice] 120.195.203.215:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:25
+[Notice] 120.195.203.215:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:28
+[Notice] 120.195.194.138:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:31
+[Notice] 120.195.194.138:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:34
+[Notice] 120.195.194.138:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:37
+[Notice] 120.195.194.236:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:40
+[Notice] 120.195.194.236:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:43
+[Notice] 120.195.194.236:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:46
+[Notice] 120.195.203.57:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:49
+[Notice] 120.195.203.57:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:52
+[Notice] 120.195.203.57:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:55
+[Notice] 120.195.201.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:18:58
+[Notice] 120.195.201.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:01
+[Notice] 120.195.201.74:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:04
+[Notice] 222.88.236.236:80 Passed [Target 0] 11-10 16:19:04
+[Notice] 222.88.236.236:80 Failed, timed out 11-10 16:19:14
+[Notice] 222.88.236.236:80 Passed [Target 2] 11-10 16:19:14
+[Notice] 120.195.202.107:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:17
+[Notice] 120.195.202.107:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:20
+[Notice] 120.195.202.107:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:23
+[Notice] 120.195.200.199:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:26
+[Notice] 120.195.200.199:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:29
+[Notice] 120.195.200.199:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:32
+[Notice] 120.195.197.9:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:35
+[Notice] 120.195.197.9:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:38
+[Notice] 120.195.197.9:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:41
+[Notice] 117.168.49.94:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:44
+[Notice] 117.168.49.94:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:47
+[Notice] 117.168.49.94:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:50
+[Notice] 120.195.201.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:53
+[Notice] 120.195.201.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:56
+[Notice] 120.195.201.147:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:19:59
+[Notice] 120.195.204.246:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:02
+[Notice] 120.195.204.246:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:05
+[Notice] 120.195.204.246:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:08
+[Notice] 120.195.199.37:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:11
+[Notice] 120.195.199.37:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:14
+[Notice] 120.195.199.37:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:17
+[Notice] 120.195.199.184:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:20
+[Notice] 120.195.199.184:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:23
+[Notice] 120.195.199.184:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:26
+[Notice] 120.195.203.154:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:29
+[Notice] 120.195.203.154:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:32
+[Notice] 120.195.203.154:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:35
+[Notice] 120.195.207.137:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:38
+[Notice] 120.195.207.137:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:41
+[Notice] 120.195.207.137:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:44
+[Notice] 123.7.88.171:3128 Passed [Target 0] 11-10 16:20:48
+[Notice] 123.7.88.171:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:51
+[Notice] 123.7.88.171:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:54
+[Notice] 222.39.87.21:8118 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:20:57
+[Notice] 222.39.87.21:8118 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:00
+[Notice] 222.39.87.21:8118 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:03
+[Notice] 208.43.128.233:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:06
+[Notice] 208.43.128.233:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:09
+[Notice] 208.43.128.233:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:12
+[Notice] 120.195.206.53:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:15
+[Notice] 120.195.206.53:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:18
+[Notice] 120.195.206.53:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:21
+[Notice] 221.212.74.203:1818 Failed, timed out 11-10 16:21:31
+[Notice] 221.212.74.203:1818 Passed [Target 1] 11-10 16:21:39
+[Notice] 221.212.74.203:1818 Passed [Target 2] 11-10 16:21:40
+[Notice] 1.234.45.50:3128 Passed [Target 0] 11-10 16:21:41
+[Notice] 1.234.45.50:3128 Passed [Target 1] 11-10 16:21:41
+[Notice] 1.234.45.50:3128 Passed [Target 2] 11-10 16:21:42
+[Notice] 173.203.82.76:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:45
+[Notice] 173.203.82.76:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:48
+[Notice] 173.203.82.76:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:21:51
+[Notice] 60.11.6.98:3128 Passed [Target 0] 11-10 16:21:59
+[Notice] 60.11.6.98:3128 Failed, HTTP Error 500: Internal Server Error 11-10 16:22:02
+[Notice] 202.57.69.84:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:22:27
+[Notice] 202.57.69.84:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:22:30
+[Notice] 202.57.69.84:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:22:33
+[Notice] 221.214.27.252:808 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:22:36
+[Notice] 221.214.27.252:808 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:22:39
+[Notice] 221.214.27.252:808 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:22:42
+[Notice] 186.225.52.57:8080 Failed, timed out 11-10 16:22:54
+[Notice] 186.225.52.57:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:22:57
+[Notice] 186.225.52.57:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:00
+[Notice] 200.202.204.150:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:03
+[Notice] 200.202.204.150:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:06
+[Notice] 200.202.204.150:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:09
+[Notice] 75.64.189.214:8085 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:12
+[Notice] 75.64.189.214:8085 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:15
+[Notice] 75.64.189.214:8085 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:18
+[Notice] 84.1.45.44:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:23:21
+[Notice] 84.1.45.44:8080 Failed, timed out 11-10 16:23:43
+[Notice] 84.1.45.44:8080 Failed, timed out 11-10 16:24:05
+[Notice] 120.195.195.221:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:08
+[Notice] 120.195.195.221:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:11
+[Notice] 120.195.195.221:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:14
+[Notice] 209.182.127.246:8080 Passed [Target 0] 11-10 16:24:22
+[Notice] 209.182.127.246:8080 Passed [Target 1] 11-10 16:24:24
+[Notice] 209.182.127.246:8080 Passed [Target 2] 11-10 16:24:26
+[Notice] 88.11.110.58:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:29
+[Notice] 88.11.110.58:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:32
+[Notice] 88.11.110.58:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:35
+[Notice] 120.195.207.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:38
+[Notice] 120.195.207.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:41
+[Notice] 120.195.207.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:44
+[Notice] 186.88.172.223:8080 Failed, timed out 11-10 16:24:54
+[Notice] 186.88.172.223:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:24:57
+[Notice] 186.88.172.223:8080 Failed, timed out 11-10 16:25:08
+[Notice] 124.192.7.228:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:11
+[Notice] 124.192.7.228:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:14
+[Notice] 124.192.7.228:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:17
+[Notice] 213.248.54.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:20
+[Notice] 213.248.54.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:23
+[Notice] 213.248.54.230:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:26
+[Notice] 103.27.24.118:80 Passed [Target 0] 11-10 16:25:27
+[Notice] 103.27.24.118:80 Passed [Target 1] 11-10 16:25:28
+[Notice] 103.27.24.118:80 Passed [Target 2] 11-10 16:25:28
+[Notice] 191.103.39.115:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:31
+[Notice] 191.103.39.115:8080 Failed, timed out 11-10 16:25:42
+[Notice] 191.103.39.115:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:45
+[Notice] 120.195.207.122:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:48
+[Notice] 120.195.207.122:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:51
+[Notice] 120.195.207.122:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:54
+[Notice] 117.36.197.152:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:25:57
+[Notice] 117.36.197.152:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:00
+[Notice] 117.36.197.152:3128 Passed [Target 2] 11-10 16:26:04
+[Notice] 183.63.239.213:3128 Passed [Target 0] 11-10 16:26:05
+[Notice] 183.63.239.213:3128 Passed [Target 1] 11-10 16:26:05
+[Notice] 183.63.239.213:3128 Passed [Target 2] 11-10 16:26:06
+[Notice] 120.195.196.42:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:09
+[Notice] 120.195.196.42:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:12
+[Notice] 120.195.196.42:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:15
+[Notice] 79.174.195.83:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:18
+[Notice] 79.174.195.83:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:21
+[Notice] 79.174.195.83:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:24
+[Notice] 120.195.206.89:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:27
+[Notice] 120.195.206.89:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:30
+[Notice] 120.195.206.89:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:33
+[Notice] 186.24.9.186:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:36
+[Notice] 186.24.9.186:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:39
+[Notice] 186.24.9.186:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:42
+[Notice] 202.100.167.157:80 Passed [Target 0] 11-10 16:26:43
+[Notice] 202.100.167.157:80 Passed [Target 1] 11-10 16:26:43
+[Notice] 202.100.167.157:80 Passed [Target 2] 11-10 16:26:44
+[Notice] 120.195.206.99:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:47
+[Notice] 120.195.206.99:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:50
+[Notice] 120.195.206.99:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:26:53
+[Notice] 110.18.241.9:3128 Passed [Target 1] 11-10 16:27:11
+[Notice] 120.195.194.67:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:27:28
+[Notice] 120.195.194.67:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:27:31
+[Notice] 120.195.194.67:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:27:34
+[Notice] 77.245.110.213:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:27:37
+[Notice] 77.245.110.213:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:27:40
+[Notice] 77.245.110.213:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:27:43
+[Notice] 202.149.89.90:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:27:46
+[Notice] 202.149.89.90:3128 Failed, timed out 11-10 16:27:57
+[Notice] 202.149.89.90:3128 Failed, timed out 11-10 16:28:09
+[Notice] 222.83.215.135:3128 Passed [Target 0] 11-10 16:28:10
+[Notice] 222.83.215.135:3128 Passed [Target 1] 11-10 16:28:12
+[Notice] 222.83.215.135:3128 Passed [Target 2] 11-10 16:28:15
+[Notice] 117.172.98.99:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:18
+[Notice] 117.172.98.99:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:21
+[Notice] 117.172.98.99:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:24
+[Notice] 120.195.207.226:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:27
+[Notice] 120.195.207.226:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:30
+[Notice] 120.195.207.226:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:33
+[Notice] 120.195.204.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:36
+[Notice] 120.195.204.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:39
+[Notice] 120.195.204.225:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:42
+[Notice] 121.10.120.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:45
+[Notice] 121.10.120.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:48
+[Notice] 121.10.120.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:51
+[Notice] 120.195.200.217:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:54
+[Notice] 120.195.200.217:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:28:57
+[Notice] 120.195.200.217:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:29:00
+[Notice] 120.195.207.126:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:29:03
+[Notice] 120.195.207.126:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:29:06
+[Notice] 120.195.207.126:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:29:09
+[Notice] 201.249.88.202:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:29:12
+[Notice] 175.100.97.41:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:18
+[Notice] 175.100.97.41:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:21
+[Notice] 175.100.97.41:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:24
+[Notice] 178.161.132.170:8585 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:27
+[Notice] 178.161.132.170:8585 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:30
+[Notice] 178.161.132.170:8585 Failed, timed out 11-10 16:30:41
+[Notice] 221.179.35.87:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:44
+[Notice] 221.179.35.87:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:47
+[Notice] 221.179.35.87:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:50
+[Notice] 120.195.205.107:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:53
+[Notice] 120.195.205.107:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:56
+[Notice] 120.195.205.107:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:30:59
+[Notice] 201.232.104.7:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:31:02
+[Notice] 201.232.104.7:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:31:05
+[Notice] 201.232.104.7:8080 Failed, timed out 11-10 16:31:42
+[Notice] 131.161.255.10:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:31:45
+[Notice] 131.161.255.10:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:31:48
+[Notice] 131.161.255.10:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:31:51
+[Notice] 219.136.252.120:80 Failed, HTTP Error 403: Forbidden 11-10 16:31:51
+[Notice] 219.136.252.120:80 Failed, HTTP Error 403: Forbidden 11-10 16:31:51
+[Notice] 219.136.252.120:80 Failed, HTTP Error 403: Forbidden 11-10 16:31:51
+[Notice] 120.195.207.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:31:54
+[Notice] 120.195.207.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:31:57
+[Notice] 120.195.207.143:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:32:00
+[Notice] 221.122.60.237:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:32:03
+[Notice] 221.122.60.237:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:32:06
+[Notice] 221.122.60.237:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:32:09
+[Notice] 187.115.148.141:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:32:12
+[Notice] 187.115.148.141:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:32:15
+[Notice] 187.115.148.141:3128 Failed, timed out 11-10 16:32:27
+[Notice] 106.37.177.251:3128 Passed [Target 0] 11-10 16:32:34
+[Notice] 106.37.177.251:3128 Failed, timed out 11-10 16:32:44
+[Notice] 106.37.177.251:3128 Failed, timed out 11-10 16:33:11
+[Notice] 109.200.159.233:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:33:14
+[Notice] 109.200.159.233:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:33:17
+[Notice] 109.200.159.233:8080 Failed, timed out 11-10 16:33:49
+[Notice] 120.195.207.26:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:33:52
+[Notice] 120.195.207.26:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:33:55
+[Notice] 120.195.207.26:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:33:58
+[Notice] 60.191.170.122:3128 Failed, timed out 11-10 16:34:31
+[Notice] 76.172.128.60:8085 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:34:50
+[Notice] 76.172.128.60:8085 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:34:51
+[Notice] 76.172.128.60:8085 Failed, <urlopen error [Errno 111] Connection refused> 11-10 16:34:51
+[Notice] 120.195.207.188:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:34:54
+[Notice] 120.195.207.188:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:34:57
+[Notice] 120.195.207.188:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:00
+[Notice] 58.176.85.23:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:03
+[Notice] 58.176.85.23:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:06
+[Notice] 58.176.85.23:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:09
+[Notice] 115.47.57.50:3128 Failed, timed out 11-10 16:35:19
+[Notice] 115.47.57.50:3128 Failed, timed out 11-10 16:35:39
+[Notice] 200.96.53.5:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:42
+[Notice] 200.96.53.5:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:45
+[Notice] 200.96.53.5:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:48
+[Notice] 120.195.197.87:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:51
+[Notice] 120.195.197.87:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:54
+[Notice] 120.195.197.87:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:35:57
+[Notice] 218.17.236.18:3128 Failed, timed out 11-10 16:36:07
+[Notice] 218.17.236.18:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:10
+[Notice] 218.17.236.18:3128 Failed, timed out 11-10 16:36:26
+[Notice] 120.195.207.71:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:29
+[Notice] 120.195.207.71:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:32
+[Notice] 120.195.207.71:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:35
+[Notice] 103.233.147.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:38
+[Notice] 103.233.147.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:41
+[Notice] 103.233.147.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:44
+[Notice] 221.130.17.131:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:47
+[Notice] 221.130.17.131:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:50
+[Notice] 221.130.17.131:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:53
+[Notice] 120.195.202.227:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:56
+[Notice] 120.195.202.227:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:36:59
+[Notice] 120.195.202.227:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:37:02
+[Notice] 221.229.252.98:8080 Passed [Target 0] 11-10 16:37:03
+[Notice] 221.229.252.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:37:06
+[Notice] 221.229.252.98:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:37:09
+[Notice] 88.247.40.123:8080 Failed, timed out 11-10 16:37:20
+[Notice] 88.247.40.123:8080 Failed, timed out 11-10 16:37:42
+[Notice] 88.247.40.123:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:37:45
+[Notice] 182.140.132.108:8888 Passed [Target 0] 11-10 16:37:45
+[Notice] 182.140.132.108:8888 Passed [Target 1] 11-10 16:37:45
+[Notice] 182.140.132.108:8888 Passed [Target 2] 11-10 16:37:46
+[Notice] 37.187.152.165:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:37:49
+[Notice] 37.187.152.165:3128 Failed, timed out 11-10 16:38:00
+[Notice] 37.187.152.165:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:03
+[Notice] 120.195.203.22:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:06
+[Notice] 120.195.203.22:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:09
+[Notice] 120.195.203.22:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:12
+[Notice] 103.7.249.84:8080 Failed, [Errno 104] Connection reset by peer 11-10 16:38:22
+[Notice] 103.7.249.84:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:25
+[Notice] 103.7.249.84:8080 Failed, timed out 11-10 16:38:36
+[Notice] 202.77.107.222:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:39
+[Notice] 202.77.107.222:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:42
+[Notice] 202.77.107.222:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:45
+[Notice] 124.192.115.237:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:48
+[Notice] 124.192.115.237:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:51
+[Notice] 124.192.115.237:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:38:54
+[Notice] 139.255.40.130:8080 Failed, timed out 11-10 16:39:05
+[Notice] 139.255.40.130:8080 Failed, timed out 11-10 16:39:17
+[Notice] 139.255.40.130:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:20
+[Notice] 120.195.201.121:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:23
+[Notice] 120.195.201.121:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:26
+[Notice] 120.195.201.121:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:29
+[Notice] 120.195.207.101:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:32
+[Notice] 120.195.207.101:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:35
+[Notice] 120.195.207.101:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:38
+[Notice] 124.115.211.30:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:41
+[Notice] 124.115.211.30:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:44
+[Notice] 124.115.211.30:9797 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:47
+[Notice] 188.166.236.230:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:50
+[Notice] 188.166.236.230:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:53
+[Notice] 188.166.236.230:8888 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:56
+[Notice] 121.18.77.12:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:39:59
+[Notice] 121.18.77.12:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:02
+[Notice] 121.18.77.12:8080 Failed, timed out 11-10 16:40:12
+[Notice] 120.195.206.156:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:15
+[Notice] 120.195.206.156:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:18
+[Notice] 120.195.206.156:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:21
+[Notice] 122.226.128.251:3128 Passed [Target 0] 11-10 16:40:21
+[Notice] 122.226.128.251:3128 Passed [Target 1] 11-10 16:40:22
+[Notice] 122.226.128.251:3128 Passed [Target 2] 11-10 16:40:23
+[Notice] 120.195.207.190:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:26
+[Notice] 120.195.207.190:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:29
+[Notice] 120.195.207.190:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:32
+[Notice] 187.191.25.15:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:35
+[Notice] 187.191.25.15:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:38
+[Notice] 187.191.25.15:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:41
+[Notice] 124.193.23.158:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:44
+[Notice] 124.193.23.158:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:47
+[Notice] 124.193.23.158:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:50
+[Notice] 120.195.205.199:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:53
+[Notice] 120.195.205.199:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:56
+[Notice] 120.195.205.199:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:40:59
+[Notice] 180.250.100.66:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:02
+[Notice] 180.250.100.66:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:05
+[Notice] 180.250.100.66:3128 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:08
+[Notice] 182.162.141.7:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:11
+[Notice] XICI Finished. 11-10 16:41:13
+[Notice] KUAI Finished. 11-10 16:41:19
+[Warning] P360 Failed for HTTP Error 503: Service Unavailable 11-10 16:41:20
+[Notice] CZ88 Finished. 11-10 16:41:21
+[Notice] 182.162.141.7:80 Failed, timed out 11-10 16:41:22
+[Notice] 182.162.141.7:80 Passed [Target 2] 11-10 16:41:25
+[Notice] 120.195.206.63:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:28
+[Notice] 120.195.206.63:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:31
+[Notice] 120.195.206.63:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:34
+[Notice] 203.171.235.242:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:37
+[Notice] 203.171.235.242:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:40
+[Notice] 203.171.235.242:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:41:43
+[Notice] 182.92.150.236:3128 Passed [Target 0] 11-10 16:41:50
+[Notice] 182.92.150.236:3128 Passed [Target 1] 11-10 16:41:56
+[Notice] 211.144.81.69:18000 Passed [Target 0] 11-10 16:42:07
+[Notice] 211.144.81.69:18000 Passed [Target 1] 11-10 16:42:08
+[Notice] 211.144.81.69:18000 Passed [Target 2] 11-10 16:42:08
+[Notice] 14.102.32.3:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:42:11
+[Notice] 14.102.32.3:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:42:14
+[Notice] 14.102.32.3:8080 Passed [Target 2] 11-10 16:42:21
+[Notice] 200.123.246.140:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:42:24
+[Notice] 200.123.246.140:80 Failed, timed out 11-10 16:42:35
+[Notice] 200.123.246.140:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:42:38
+[Notice] XICI Finished. 11-10 16:42:44
+[Notice] 60.15.7.28:3128 Failed, [Errno 104] Connection reset by peer 11-10 16:42:54
+[Notice] 60.15.7.28:3128 Failed, [Errno 104] Connection reset by peer 11-10 16:42:54
+[Notice] 59.39.88.190:8080 Passed [Target 0] 11-10 16:42:56
+[Notice] 59.39.88.190:8080 Passed [Target 1] 11-10 16:42:58
+[Notice] 59.39.88.190:8080 Passed [Target 2] 11-10 16:43:01
+[Notice] 139.219.14.95:9999 Passed [Target 0] 11-10 16:43:01
+[Notice] 139.219.14.95:9999 Passed [Target 1] 11-10 16:43:01
+[Notice] 139.219.14.95:9999 Passed [Target 2] 11-10 16:43:01
+[Notice] 178.19.98.1:8088 Failed, timed out 11-10 16:43:12
+[Notice] 178.19.98.1:8088 Failed, [Errno 104] Connection reset by peer 11-10 16:43:21
+[Notice] 178.19.98.1:8088 Failed, [Errno 104] Connection reset by peer 11-10 16:43:32
+[Notice] 220.231.93.41:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:35
+[Notice] 220.231.93.41:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:38
+[Notice] 220.231.93.41:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:41
+[Notice] 120.195.204.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:44
+[Notice] 120.195.204.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:47
+[Notice] 120.195.204.214:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:50
+[Notice] 120.195.207.205:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:53
+[Notice] 120.195.207.205:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:56
+[Notice] 120.195.207.205:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:43:59
+[Notice] 221.130.17.150:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:02
+[Notice] 221.130.17.150:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:05
+[Notice] 221.130.17.150:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:08
+[Notice] 119.70.40.101:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:11
+[Notice] 119.70.40.101:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:14
+[Notice] 119.70.40.101:8080 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:17
+[Notice] 137.135.166.225:8120 Passed [Target 0] 11-10 16:44:23
+[Notice] 137.135.166.225:8120 Passed [Target 1] 11-10 16:44:32
+[Notice] 137.135.166.225:8120 Passed [Target 2] 11-10 16:44:36
+[Notice] 221.130.17.125:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:39
+[Notice] 221.130.17.125:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:42
+[Notice] 221.130.17.125:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:45
+[Notice] 221.130.17.128:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:48
+[Notice] 221.130.17.128:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:51
+[Notice] 221.130.17.128:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-10 16:44:54
+[Notice] Crawl Finished, Result Below: 11-10 16:44:54
+[Notice] [Target 0] 89(0) @ http://data.eastmoney.com/report/
+ 11-10 16:44:54
+[Notice] [Target 1] 94(0) @ http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?p=1
+ 11-10 16:44:54
+[Notice] [Target 2] 92(0) @ http://www.baidu.com
+ 11-10 16:44:54
+[Warning] XICI Failed for <urlopen error [Errno 110] Connection timed out> 11-11 02:44:14
+[Warning] KUAI Failed for <urlopen error [Errno 110] Connection timed out> 11-11 02:44:17
+[Warning] P360 Failed for <urlopen error [Errno 110] Connection timed out> 11-11 02:44:20
+[Warning] CZ88 Failed for <urlopen error [Errno 110] Connection timed out> 11-11 02:44:23
+[Notice] Crawl Finished, Result Below: 11-11 02:44:23
+[Notice] XICI Finished. 11-11 11:19:42
+[Notice] KUAI Finished. 11-11 11:19:46
+[Notice] P360 Finished. 11-11 11:19:48
+[Notice] CZ88 Finished. 11-11 11:19:48
+[Notice] 183.141.72.221:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:19:48
+[Notice] 183.141.72.221:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:19:48
+[Notice] 183.141.72.221:3128 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:19:48
+[Notice] 182.90.31.71:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:19:51
+[Notice] 182.90.31.71:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:19:54
+[Notice] 182.90.31.71:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:19:57
+[Notice] 61.224.148.99:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:19:57
+[Notice] 61.224.148.99:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:19:57
+[Notice] 61.224.148.99:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:19:57
+[Notice] 171.39.232.86:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:00
+[Notice] 171.39.232.86:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:03
+[Notice] 171.39.232.86:80 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:06
+[Notice] 121.31.153.69:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:09
+[Notice] 121.31.153.69:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:12
+[Notice] 121.31.153.69:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:15
+[Notice] 218.200.66.196:8080 Passed [Target 0] 11-11 11:20:16
+[Notice] 218.200.66.196:8080 Passed [Target 1] 11-11 11:20:16
+[Notice] 218.200.66.196:8080 Passed [Target 2] 11-11 11:20:16
+[Notice] 110.73.6.55:8123 Passed [Target 1] 11-11 11:20:32
+[Notice] 110.73.6.55:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:35
+[Notice] 110.73.7.33:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:20:38
+[Notice] 110.73.7.33:8123 Passed [Target 1] 11-11 11:20:42
+[Notice] 110.73.7.33:8123 Passed [Target 2] 11-11 11:20:47
+[Notice] 120.198.236.10:80 Passed [Target 0] 11-11 11:20:47
+[Notice] 120.198.236.10:80 Passed [Target 1] 11-11 11:20:48
+[Notice] 120.198.236.10:80 Passed [Target 2] 11-11 11:20:49
+[Notice] 113.255.215.158:80 Passed [Target 0] 11-11 11:20:52
+[Notice] 113.255.215.158:80 Failed, HTTP Error 500: Internal Server Error 11-11 11:20:54
+[Notice] 113.255.215.158:80 Failed, [Errno 104] Connection reset by peer 11-11 11:20:54
+[Notice] 220.248.224.242:8089 Passed [Target 0] 11-11 11:20:56
+[Notice] 220.248.224.242:8089 Passed [Target 1] 11-11 11:20:57
+[Notice] 220.248.224.242:8089 Passed [Target 2] 11-11 11:20:58
+[Notice] 110.73.48.136:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:21:01
+[Notice] 110.73.48.136:8123 Passed [Target 1] 11-11 11:21:07
+[Notice] 110.73.48.136:8123 Failed, [Errno 104] Connection reset by peer 11-11 11:21:10
+[Notice] 171.38.38.242:8123 Passed [Target 0] 11-11 11:21:14
+[Notice] 171.38.38.242:8123 Failed, [Errno 104] Connection reset by peer 11-11 11:21:16
+[Notice] 171.38.38.242:8123 Passed [Target 2] 11-11 11:21:17
+[Notice] 61.223.239.13:8888 Passed [Target 0] 11-11 11:21:19
+[Notice] 61.223.239.13:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:21:19
+[Notice] 61.223.239.13:8888 Failed, <urlopen error [Errno 111] Connection refused> 11-11 11:21:20
+[Notice] 110.72.22.4:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:21:23
+[Notice] 110.72.22.4:8123 Failed, <urlopen error [Errno 110] Connection timed out> 11-11 11:21:26

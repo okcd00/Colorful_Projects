@@ -1,0 +1,52 @@
+Traceback (most recent call last):
+  File "CDcatProxy.py", line 13, in <module>
+    import logMod
+  File "/home/work/share/chendian@BDL/ProxyCrawl_151105/logMod.py", line 13, in <module>
+    path_log = config.get("path", "path_log")
+  File "/home/work/.jumbo/lib/python2.7/ConfigParser.py", line 618, in get
+    raise NoOptionError(option, section)
+ConfigParser.NoOptionError: No option 'path_log' in section: 'path'
+Traceback (most recent call last):
+  File "CDcatProxy.py", line 13, in <module>
+    import logMod
+  File "/home/work/share/chendian@BDL/ProxyCrawl_151105/logMod.py", line 15, in <module>
+    class logMod:
+  File "/home/work/share/chendian@BDL/ProxyCrawl_151105/logMod.py", line 23, in logMod
+    handler=logging.FileHandler(Log)
+  File "/home/work/.jumbo/lib/python2.7/logging/__init__.py", line 897, in __init__
+    StreamHandler.__init__(self, self._open())
+  File "/home/work/.jumbo/lib/python2.7/logging/__init__.py", line 916, in _open
+    stream = open(self.baseFilename, self.mode)
+IOError: [Errno 2] No such file or directory: '/home/work/share/chendian@BDL/ProxyCrawl_151105/log/Log.txt'
+Traceback (most recent call last):
+  File "CDcatProxy.py", line 20, in <module>
+    path_home = config.getint("path", "path_home")
+  File "/home/work/.jumbo/lib/python2.7/ConfigParser.py", line 359, in getint
+    return self._get(section, int, option)
+  File "/home/work/.jumbo/lib/python2.7/ConfigParser.py", line 356, in _get
+    return conv(self.get(section, option))
+ValueError: invalid literal for int() with base 10: './data/'
+Traceback (most recent call last):
+  File "CDcatProxy.py", line 182, in <module>
+    pxylist.extend(Get_P360())
+  File "CDcatProxy.py", line 121, in Get_P360
+    doc = Getdoc(url)
+  File "CDcatProxy.py", line 70, in Getdoc
+    html_doc = urllib2.urlopen(request, timeout = 10)
+  File "/home/work/.jumbo/lib/python2.7/urllib2.py", line 126, in urlopen
+    return _opener.open(url, data, timeout)
+  File "/home/work/.jumbo/lib/python2.7/urllib2.py", line 406, in open
+    response = meth(req, response)
+  File "/home/work/.jumbo/lib/python2.7/urllib2.py", line 519, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/home/work/.jumbo/lib/python2.7/urllib2.py", line 444, in error
+    return self._call_chain(*args)
+  File "/home/work/.jumbo/lib/python2.7/urllib2.py", line 378, in _call_chain
+    result = func(*args)
+  File "/home/work/.jumbo/lib/python2.7/urllib2.py", line 527, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "CDcatProxy.py", line 212, in <module>
+ZeroDivisionError: integer division or modulo by zero
+python: can't open file 'run.py': [Errno 2] No such file or directory

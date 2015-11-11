@@ -1,0 +1,3 @@
+East.txt@http://data.eastmoney.com/report/
+Sina.txt@http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?p=1
+Pass.txt@http://www.baidu.com
