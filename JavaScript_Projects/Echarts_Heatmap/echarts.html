@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<style type="text/css">
+.color{color:#66CCFF; text-decoration:none;font-weight:bold;}/*链接设置*/
+.color:visited{color:#3399CC; text-decoration:none;font-weight:bold;}/*访问过的链接设置*/
+.color:hover{color:#FFFFFF; text-decoration:underline;font-weight:bold;}/*鼠标放上的链接设置*/
+/*
+取消下划线只要把text-decoration:underline修改成text-decoration:none
+文字加粗font-weight:bold 如不需要加粗显示，那么删除font-weight:bold;就可以了
+*/
+</style>
+
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.js"></script>
+</head>
+
+<body>
+	<!-- 特征化当前Index -->
+	<script type="text/javascript">
+	var strUrl = window.location.href.split("/");
+	var strPage = strUrl[strUrl.length-1];
+	var strName = strPage.split(".");
+	var curIndex = strName[0].substr(7);
+	var dataSource = "data" + curIndex + ".js";
+	var sth = "<script language=javascript src=\"" + dataSource + "\"><\/script>";
+	document.write(sth);
+	</script>
+	<!-- 指定图表的数据项 -->
+	<script type="text/javascript" src="" id = "demo">
+	</script>
+	<!-- 对数据项进行js处理 -->
+	<script type="text/javascript" src = "./js/init.js">
+	</script>
+	
+	<div>
+	<span id="list"></span>
+	<script type="text/javascript">
+	var lp = '<h3> Online Behaviour List <\/h3> <ol>';
+	for(var i=0;i<online.length;i++)
+	{
+		lp += '<li>';
+		for(var j=0;j<online[i].length;j++)
+		{
+			lp += online[i][j] + ' , ';
+		}
+		lp += '<\/li>';
+	}
+	lp += '<\/ol> <h3> Offline Behaviour List <\/h3> <ol>';
+	for(var i=0;i<offline.length;i++)
+	{
+		lp += '<li>';
+		for(var j=0;j<offline[i].length;j++)
+		{
+			lp += offline[i][j] + ' , ';
+		}
+		lp += '<\/li>';
+	}
+	lp += '<\/ol>';
+    document.getElementById('list').innerHTML = lp;
+	</script>
+	</div>
+
+
+	<!-- EChartsW Dom -->
+	<div id="w" style="width: 800px;height:600px;"></div> 
+	<script type="text/javascript"> // 基于准备好的dom，初始化echarts实例
+		var myChart = echarts.init(document.getElementById('w'));
+	</script>
+	<script type="text/javascript" src = "./js/HeatMap_W.js"> // 指定图表的配置项
+	</script>
+	<script type="text/javascript">	// 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+	
+    <!-- EChartsA Dom -->
+    <div id="P" style="width: 800px;height:600px;"></div> 
+    <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('P'));
+	</script>
+	<script type="text/javascript" src = "./js/HeatMap_P.js"> // 指定图表的配置项
+	</script>
+	<script type="text/javascript">	// 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+	
+	<!-- EChartsB Dom -->
+    <div id="Lift" style="width: 800px;height:600px;"></div> 
+    <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('Lift'));
+	</script>
+	<script type="text/javascript" src = "./js/HeatMap_Lift.js"> // 指定图表的配置项
+	</script>
+	<script type="text/javascript">	// 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+	
+	<table>
+	<tr>
+	<td>
+	<span id="Vx" style="width: 100px;height:600px;"></span> 
+	<script type="text/javascript"> // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('Vx'));
+	</script>
+	<script type="text/javascript" src = "./js/HeatMap_Vx.js"> // 指定图表的配置项
+	</script>
+	<script type="text/javascript">	// 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+	</td>
+	<td>
+	<span id="Vy" style="width: 100px;height:600px;"></span> 
+	<script type="text/javascript"> // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('Vy'));
+	</script>
+	<script type="text/javascript" src = "./js/HeatMap_Vy.js"> // 指定图表的配置项
+	</script>
+	<script type="text/javascript">	// 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+	</td>
+	<td>
+	<span id="Vz" style="width: 100px;height:600px;"></span> 
+	<script type="text/javascript"> // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('Vz'));
+	</script>
+	<script type="text/javascript" src = "./js/HeatMap_Vz.js"> // 指定图表的配置项
+	</script>
+	<script type="text/javascript">	// 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+	</td>
+	
+	<td>
+	<!-- EChartsC Dom -->
+    <span id="V" style="width: 800px;height:600px;"></span> 
+    <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('V'));
+	</script>
+	<script type="text/javascript" src = "./js/HeatMap_V.js"> // 指定图表的配置项
+	</script>
+	<script type="text/javascript">	// 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+	</td>
+	</tr>
+	</table>
+	
+	<div>
+	<span id="msg"></span>
+	<script type="text/javascript">
+	var outp = '<table border="1"><tr>'
+	outp += '<td>Max_xi: ' + arr[0] + '<\/td>'
+	      + '<td>Min_yi: ' + arr[1] + '<\/td>'
+		  + '<td>Min_zi: ' + arr[2] + '<\/td><\/tr><tr>' ;
+	outp += '<td>Avg_xi: ' + arr[3] + '<\/td>'
+	      + '<td>Avg_yi: ' + arr[4] + '<\/td>' 
+		  + '<td>Avg_zi: ' + arr[5] + '<\/td>' ;
+	outp += '<\/tr><\/table>';
+	outp += "[HINTS] " + notice;
+    document.getElementById('msg').innerHTML = outp;
+	</script>
+	</div>
+	
+</body>
+</html>
