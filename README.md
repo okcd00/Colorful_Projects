@@ -1,2 +1,3 @@
 # Colorful_Projects
-Many kinds of variety projects. Interest is the best.
+Let interest be the best.
+Several Trails of different kinds of programming.
