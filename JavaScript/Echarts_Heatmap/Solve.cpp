@@ -15,7 +15,7 @@ using namespace std;
 
 //var initial
 int idx=0, n=0, m=0, w[Maxn][Maxn]={0};
-double p[Maxn][Maxn],lift[Maxn][Maxn],v[Maxn][Maxn],x[Maxn],y[Maxn],z[Maxn],range[Maxn];
+double p[Maxn][Maxn],lift[Maxn][Maxn],v[Maxn][Maxn],x[Maxn],y[Maxn],z[Maxn],range[Maxn],zero = 0.0000;
 char index[2],enter,line[Maxn*Maxn];
 
 ifstream chk,File[Maxn];
@@ -120,8 +120,8 @@ void getPij()
 		for(int j=0;j<m;j++)
 		{
 			int tmp = 0;
-			for(int k=0;k<m;k++) tmp += w[i][k];
-			if(tmp==0) p[i][j] = 0.0;
+			for(int k=0;k<m;k++) if(w[i][k]==w[i][k]) tmp += w[i][k];
+			if(tmp==0) p[i][j] = zero;
 			else p[i][j] = (double)w[i][j] / (double)tmp;
 			cout<<"["<<i<<","<<j<<","<<p[i][j]<<"],";
 		}
@@ -149,7 +149,7 @@ void getLift()
 				for(int l=0;l<m;l++)
 					tmpd += w[k][l];
 			}
-			if(tmpu==0.0) lift[i][j] = 0.0;
+			if(tmpu==0||tmpd==0) lift[i][j] = zero;
 			else lift[i][j] = (double)p[i][j] / ((double)tmpu/(double)tmpd);
 			cout<<"["<<i<<","<<j<<","<<lift[i][j]<<"],";
 		}
@@ -167,8 +167,7 @@ void getVij()
 		{
 			v[i][j] = p[i][j] * log(lift[i][j]);
 			if(v[i][j]==v[i][j]) cout<<"["<<i<<","<<j<<","<<v[i][j]<<"],";
-			else cout<<"["<<i<<","<<j<<","<<0.0000<<"],";
-			
+			else cout<<"["<<i<<","<<j<<","<<zero<<"],";
 		}
 		cout<<endl;
 	}
@@ -180,12 +179,16 @@ void getXi()
 	cout<<"\nvar xValue = [";
 	for(int i=0;i<n;i++)
 	{
+		x[i]=zero;
 		for(int j=0;j<m;j++)
-			x[i] += p[i][j] * (-log(p[i][j]));
+		{
+			double buf_data = p[i][j] * (log(p[i][j])) * (-1.0);
+			if(buf_data==buf_data) x[i] += buf_data;
+		}
 		if(x[i]==x[i]) 	
 			cout<<"["<<i<<","<<0<<","<<x[i]<<"],";
 		else 
-			cout<<"["<<i<<","<<0<<","<<0.000<<"],";
+			cout<<"["<<i<<","<<0<<","<<zero<<"],";
 		cout<<endl;
 	}
 	cout<<"];"<<endl;
@@ -196,12 +199,16 @@ void getYi()
 	cout<<"\nvar yValue = [";
 	for(int i=0;i<n;i++)
 	{
+		y[i]=zero;
 		for(int j=0;j<m;j++)
-			y[i] += p[i][j] * log(lift[i][j]);
+		{
+			double buf_data = p[i][j] * log(lift[i][j]);
+			if(buf_data==buf_data) y[i] += buf_data;
+		}
 		if(y[i]==y[i]) 
 			cout<<"["<<i<<","<<0<<","<<y[i]<<"],";
 		else
-			cout<<"["<<i<<","<<0<<","<<0.000<<"],";
+			cout<<"["<<i<<","<<0<<","<<zero<<"],";
 		cout<<endl;
 	}
 	cout<<"];"<<endl;
@@ -212,16 +219,17 @@ void getZi()
 	cout<<"\nvar zValue = [";
 	for(int i=0;i<n;i++)
 	{
-		z[i]= -INF;
+		int jtmp=0;
+		z[i]=zero;
+		while(!v[i][jtmp]==v[i][jtmp]) jtmp++;
+		z[i]= v[i][jtmp];
 		for(int j=0;j<m;j++)
-		{
-			double tmp = p[i][j] * log(lift[i][j]);
-			z[i] = (z[i] - tmp > 0.000 ? z[i] : tmp) ;
-		}
+			if(v[i][j]==v[i][j])
+				z[i] = (z[i] - v[i][j] > zero ? z[i] : v[i][j]) ;
 		if(z[i]==z[i]) 
 			cout<<"["<<i<<","<<0<<","<<z[i]<<"],";
 		else 
-			cout<<"["<<i<<","<<0<<","<<0.000<<"],";
+			cout<<"["<<i<<","<<0<<","<<zero<<"],";
 		cout<<endl;
 	}
 	cout<<"];"<<endl;
@@ -230,15 +238,24 @@ void getZi()
 void getArr()
 {
 	double max_x=-INF,min_y=INF,min_z=INF,
-		   avg_x=0.0000,avg_y=0.0000,avg_z=0.0000;	   
+		   avg_x=zero,avg_y=zero,avg_z=zero;	   
 	for(int ii=0;ii<n;ii++)
 	{
-		if(x[ii]-max_x>0.0) max_x=x[ii];
-		if(min_y-y[ii]>0.0) min_y=y[ii];
-		if(min_z-z[ii]>0.0) min_z=z[ii];
-		if(x[ii]==x[ii]) avg_x = avg_x + (double)x[ii];
-		if(y[ii]==y[ii]) avg_y = avg_y + (double)y[ii];
-		if(z[ii]==z[ii]) avg_z = avg_z + (double)z[ii];
+		if(x[ii]==x[ii])
+		{
+			if(x[ii]-max_x>zero) max_x=x[ii];
+			avg_x = avg_x + (double)x[ii];	
+		}
+		if(y[ii]==y[ii])
+		{
+			if(min_y-y[ii]>zero) min_y=y[ii];
+			avg_y = avg_y + (double)y[ii];	
+		}
+		if(z[ii]==z[ii])
+		{
+			if(min_z-z[ii]>zero) min_z=z[ii];
+			avg_z = avg_z + (double)z[ii];
+		}
 		// cout<<"/* Test "<<endl<<avg_x<<endl<<avg_y<<endl<<avg_z<<endl<<"*/";
 	}
 	cout<<"\nvar arr = [";
@@ -304,14 +321,6 @@ int check_file(int i)
 		outputFile = _outputFile + index + ".js";
 		return 0;	
 	}
-	//Back-up
-	memset(w,0,sizeof w);
-	memset(p,0,sizeof p);
-	memset(lift,0,sizeof lift);
-	memset(v,0,sizeof v);
-	memset(x,0,sizeof x);
-	memset(y,0,sizeof y);
-	memset(z,0,sizeof z);
 }
 
 
