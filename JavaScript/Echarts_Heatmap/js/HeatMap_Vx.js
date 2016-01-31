@@ -4,7 +4,7 @@ option = {
 	},
 	tooltip: {
 		position: 'right',
-		triggerOn: 'mousemove',
+		triggerOn: 'click',
 		enterable: true,
 		alwaysShowContent: false,
 		hideDelay: 500,

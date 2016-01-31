@@ -4,7 +4,7 @@ option = {
 	},
 	tooltip: {
 		position: 'right',
-		triggerOn: 'mousemove',
+		triggerOn: 'click',
 		enterable: true,
 		formatter:function (params,ticket,callback) {
 		    var str = params.value;

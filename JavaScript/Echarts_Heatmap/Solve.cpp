@@ -11,7 +11,7 @@
 using namespace std;
 
 #define Maxn 100
-#define INF 233.333
+#define INF 2333.33
 
 //var initial
 int idx=0, n=0, m=0, w[Maxn][Maxn]={0};
@@ -25,6 +25,12 @@ string onlineFile,_onlineFile = "./input/online";
 string offlineFile,_offlineFile = "./input/offline";
 string outputFile,_outputFile = "data";
 string htmlFile = "echarts";
+
+struct Node
+{
+	int wVal,i,j;
+	double pVal,liftVal,vVal;
+}bag[Maxn*Maxn];
 
 void getOnline()
 {
@@ -301,6 +307,47 @@ void getRange()
 	cout<<"];"<<endl;
 } 
 
+bool cmp( const Node a , const Node b )
+{   
+	if(a.vVal != b.vVal) return a.vVal - b.vVal > zero;   
+	else return a.liftVal - b.liftVal > zero;   
+}   
+
+void getBag()
+{
+	int posi=0;
+	for(int i=0;i<n;i++)
+	{
+		for(int j=0;j<m;j++)
+		{
+			if(v[i][j]==v[i][j])
+			{
+				bag[posi].i=i;
+				bag[posi].j=j;
+				bag[posi].vVal = v[i][j];
+				bag[posi].wVal = (w[i][j]==w[i][j])?w[i][j]:0;
+				bag[posi].pVal = (p[i][j]==p[i][j])?p[i][j]:zero;
+				bag[posi].liftVal = (lift[i][j]==lift[i][j])?lift[i][j]:zero;
+				posi++;
+			}
+		}
+	}
+	sort(bag,bag+posi,cmp);
+	cout<<endl<<"var bag = ["<<endl;
+	for(int i=0;i<30;i++)
+	{
+		cout<<"["
+			<<bag[i].vVal<<","
+			<<bag[i].i<<","
+			<<bag[i].j<<","
+			<<bag[i].wVal<<","
+			<<bag[i].pVal<<","
+			<<bag[i].liftVal<<","
+			<<"],"<<endl;
+	}
+	cout<<"];"<<endl;
+}
+
 int check_file(int i)
 {
 	itoa(i,index,10);
@@ -351,6 +398,7 @@ int main()
 		getZi(); 
 		getArr();
 		getRange();
+		getBag();
 		makeHTML();
 		
 		Filo[idx].close();
